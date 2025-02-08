@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <select name="country" id="country"></select>
+    <div id="checkbox-month"></div>
+    <br>
+    <div id="vis-airport"></div>
+    <div id="vis-month"></div>
+    <div id="vis-time"></div>
+
+    <script type="text/javascript">
+        $.getJSON("PercentMisDep.json", function (obj) {
+            let countries = new Set();
+            $.each(obj, function (key, value) {
+                countries.add(value['ADEP State']);
+            });
+            $('#country').append('<option value="All">All</option>');
+            for (const c of countries) {
+                $('#country').append('<option value="' + c + '">' + c + '</option>');
+            }
+
+            let months = new Set();
+            $.each(obj, function (key, value) {
+                months.add(value['Month']);
+            });
+            months = Array.from(months).sort();
+            for (const m of months) {
+                $('#checkbox-month').append('<input type="checkbox" id="' + m + '" name="' + m + '" value="' + m + '" checked><label for="' + m + '">' + m + '</label>');
+            }
+
+            $('#checkbox-month input').change(function () {
+                const months = new Set();
+                $('#checkbox-month input').map(function () {
+                    if (this.checked) {
+                        months.add($(this).val());
+                    }
+                });
+                console.log([...months])
+                vegaEmbed('#vis-airport', byAirportSpec($('#country').val(), [...months]));
+                vegaEmbed('#vis-time', timeSpec($('#country').val(), [...months]));
+                console.log(byAirportSpec($('#country').val(), [...months]))
+                vegaEmbed('#vis-month', byMonthSpec($('#country').val()));
+            });
+        });
+
+        const timeSpec = (country, months) => ({
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            width: 800,
+            height: 400,
+            data: {
+                url: './FlightType.json'
+            },
+            transform: [
+                {
+                    filter: months ? "indexof([" + months.map(m => "'" + m + "'").join(',') + "], datum.Month) >= 0" : undefined
+                },
+                ...(country === 'All' ? [] : [
+                    {
+                        filter: "datum['ADEP State'] == '" + country + "'"
+                    }
+                ]),
+            ],
+            encoding: {
+                y: { field: 'TotalFlights', aggregate: 'sum' },
+                x: { field: 'HourEOBT', type: 'ordinal' },
+                color: { field: 'FlightType', type: 'nominal' }
+            },
+            layer: [
+                {
+                    mark: { type: 'bar' },
+                },
+            ]
+        });
+
+        const byAirportSpec = (country, months) => ({
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            width: 800,
+            height: 400,
+            data: {
+                url: './PercentMisDep.json'
+            },
+            transform: [
+                {
+                    filter: months ? "indexof([" + months.map(m => "'" + m + "'").join(',') + "], datum.Month) >= 0" : undefined
+                },
+                {
+                    calculate: "'1' + split(datum['Month'], '-')[0] + '-20' + split(datum['Month'], '-')[1]",
+                    as: "Month"
+                },
+                {
+                    calculate: "toDate(datum['Month'])",
+                    as: "Month"
+                },
+                ...(country === 'All' ? [] : [
+                    {
+                        filter: "datum['ADEP State'] == '" + country + "'"
+                    }
+                ]),
+                {
+                    aggregate: [
+                        { op: 'sum', field: 'MisDep', as: 'MisDep' },
+                        { op: 'sum', field: 'TotalDep', as: 'TotalDep' }
+                    ],
+                    groupby: ['Month', 'ADEP']
+                },
+                {
+                    calculate: "datum['MisDep'] / datum['TotalDep']",
+                    as: 'PercentMisDep'
+                },
+                {
+                    calculate: "(round(datum.PercentMisDep * 10000) / 100)",
+                    as: 'PercentMisDep'
+                }
+            ],
+            encoding: {
+                y: { field: 'PercentMisDep', type: 'quantitative', axis: null },
+                x: { field: 'Month', type: 'temporal', timeUnit: 'yearmonth' },
+                color: { field: 'ADEP', type: 'nominal' }
+            },
+            layer: [
+                {
+                    mark: { type: 'line', color: 'red' },
+                },
+                {
+                    mark: { type: 'point', filled: true, color: 'red' },
+                },
+                {
+                    mark: { type: 'text', baseline: 'bottom', dy: -10 },
+                    transform: [
+                        {
+                            calculate: "datum.PercentMisDep + '%'",
+                            as: 'PercentMisDepText'
+                        }
+                    ],
+                    encoding: {
+                        text: { field: 'PercentMisDepText', type: 'nominal' }
+                    }
+                },
+            ]
+        });
+
+        const byMonthSpec = country => ({
+            $schema: 'https://vega.github.io/schema/vega-lite/v5.json',
+            width: 800,
+            height: 400,
+            data: {
+                url: './PercentMisDep.json'
+            },
+            transform: [
+                {
+                    calculate: "'1' + split(datum['Month'], '-')[0] + '-20' + split(datum['Month'], '-')[1]",
+                    as: "Month"
+                },
+                {
+                    calculate: "toDate(datum['Month'])",
+                    as: "Month"
+                },
+                ...(country === 'All' ? [] : [
+                    {
+                        filter: "datum['ADEP State'] == '" + country + "'"
+                    }
+                ])
+            ],
+            encoding: {
+                x: { field: 'Month', type: 'temporal', timeUnit: 'yearmonth' },
+            },
+            layer: [
+                {
+                    mark: { type: 'bar' },
+                    encoding: {
+                        y: { field: 'MisDep', aggregate: 'sum', type: 'quantitative' },
+                        tooltip: [
+                            { field: 'MisDep', type: 'quantitative', title: 'Total # Mis Flights:', format: ',d' },
+                            // { field: 'TotalDep', type: 'quantitative', title: 'TotalDep', format: ',d' }
+                        ]
+                    }
+                },
+                {
+                    transform: [
+                        {
+                            aggregate: [
+                                { op: 'sum', field: 'MisDep', as: 'MisDep' },
+                                { op: 'sum', field: 'TotalDep', as: 'TotalDep' }
+                            ],
+                            groupby: ['Month']
+                        },
+                        {
+                            calculate: "datum['MisDep'] / datum['TotalDep']",
+                            as: 'PercentMisDep'
+                        },
+                        {
+                            calculate: "(round(datum.PercentMisDep * 10000) / 100)",
+                            as: 'PercentMisDep'
+                        }
+                    ],
+                    encoding: {
+                        x: { field: 'Month', type: 'temporal', timeUnit: 'yearmonth' },
+                        y: { field: 'PercentMisDep', type: 'quantitative', axis: null }
+                    },
+                    layer: [
+                        {
+                            mark: { type: 'line', color: 'red' },
+                        },
+                        {
+                            mark: { type: 'point', filled: true, color: 'red' },
+                        },
+                        {
+                            mark: { type: 'text', baseline: 'bottom', dy: -10 },
+                            transform: [
+                                {
+                                    calculate: "datum.PercentMisDep + '%'",
+                                    as: 'PercentMisDepText'
+                                }
+                            ],
+                            encoding: {
+                                text: { field: 'PercentMisDepText', type: 'nominal' }
+                            }
+                        },
+                    ]
+                }
+            ],
+            "resolve": { "scale": { "y": "independent" } }
+        });
+        vegaEmbed('#vis-airport', byAirportSpec('All'));
+        vegaEmbed('#vis-month', byMonthSpec('All'));
+        vegaEmbed('#vis-time', timeSpec('All'));
+        $('#country').change(function () {
+                const months = new Set();
+                $('#checkbox-month input').map(function () {
+                    if (this.checked) {
+                        months.add($(this).val());
+                    }
+                });
+                console.log([...months])
+                vegaEmbed('#vis-airport', byAirportSpec($('#country').val(), [...months]));
+                vegaEmbed('#vis-time', timeSpec($('#country').val(), [...months]));
+                console.log(byAirportSpec($('#country').val(), [...months]))
+                vegaEmbed('#vis-month', byMonthSpec($('#country').val()));
+        });
+    </script>
+</body>
+
+</html>

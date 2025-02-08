@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script src="./utils.js" async="false"></script>
+    <script src="./byMonth.js" async="false"></script>
+    <script src="./byAirport.js" async="false"></script>
+    <script src="./byTime.js" async="false"></script>
+</head>
+
+<body>
+    <select name="country" id="country"></select>
+    <div id="checkbox-month"></div>
+
+    <div>
+        <canvas id="vis-airport" width="800px"></canvas>
+        <div style="display: flex; flex-direction: row;">
+            <canvas id="vis-month" width="400px"></canvas>
+            <canvas id="vis-time" width="400px"></canvas>
+        </div>
+    </div>
+
+    <script type="text/javascript" async="false">
+        window.onload = () => {
+            Chart.register(ChartDataLabels);
+
+            const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+            function parseMonth(m) {
+                return new Date(parseInt('20' + m.split('-')[1]), monthNames.indexOf(m.split('-')[0]));
+            }
+
+            $.getJSON("PercentMisDep.json", function (objPercentMisDep) {
+                $.getJSON("FlightType.json", function (objFlightType) {
+
+                    // Fill in the country dropdown
+                    const countries = new Set();
+                    $.each(objPercentMisDep, function (key, value) {
+                        countries.add(value['ADEP State']);
+                    });
+                    $('#country').append('<option value="All">All</option>');
+                    for (const c of countries) {
+                        $('#country').append('<option value="' + c + '">' + c + '</option>');
+                    }
+
+                    // Fill in the month checkboxes
+                    const monthsSet = new Set();
+                    $.each(objPercentMisDep, function (key, value) {
+                        monthsSet.add(value['Month']);
+                    });
+                    const months = Array.from(monthsSet).sort((a, b) => parseMonth(a) - parseMonth(b));
+                    for (const m of months) {
+                        $('#checkbox-month').append('<input type="checkbox" id="' + m + '" name="' + m + '" value="' + m + '" checked><label for="' + m + '">' + m + '</label>');
+                    }
+
+                    // Visualizations Setup
+                    // Each with their spec and initial data (all countries with all months)
+                    const timeCtx = document.getElementById('vis-time');
+                    const { timeAllHours, timeFlightTypes, timeData } = timeAggregate('All', 'All', objFlightType);
+                    const timeConfig = createTimeConfig(timeAllHours, timeFlightTypes, timeData);
+
+                    const airportCtx = document.getElementById('vis-airport');
+                    const [airportData, airportAllMonths] = airportAggregate('All', 'All', objPercentMisDep);
+                    const airportConfig = createAirportConfig(airportData, airportAllMonths);
+
+                    const monthCtx = document.getElementById('vis-month');
+                    const monthData = monthAggregate('All', objPercentMisDep);
+                    const monthConfig = createMonthConfig(monthData);
+
+                    // Create the charts
+                    const monthChart = new Chart(monthCtx, monthConfig);
+                    const airportChart = new Chart(airportCtx, airportConfig);
+                    const timeChart = new Chart(timeCtx, timeConfig);
+
+                    // When filter chages, update the data in the charts.
+                    function updateCharts() {
+                        // Get filter values
+                        const country = $('#country').val();
+                        const months = new Set();
+                        $('#checkbox-month input').map(function () {
+                            if (this.checked) {
+                                months.add($(this).val());
+                            }
+                        });
+
+                        // Update ByMonth
+                        const monthData = monthAggregate(country, objPercentMisDep);
+                        monthChart.data.datasets[0].data = monthData.map(d => d.misDep);
+                        monthChart.data.datasets[1].data = monthData.map(d => d.percentMisDep);
+                        monthChart.update()
+
+                        // Update ByAirport
+                        const [airportData, airportAllMonths] = airportAggregate(country, months, objPercentMisDep);
+                        airportChart.data.labels = airportAllMonths.map(m => m.split('-')[0] + ' 20' + m.split('-')[1]);
+                        airportChart.data.datasets.map((dataset, idx) => [dataset.label, idx]).reverse().forEach(([ADEP, idx]) => {
+                            if (!(ADEP in airportData)) {
+                                airportChart.data.datasets.splice(idx, 1);
+                            }
+                        });
+                        Object.keys(airportData).forEach(ADEP => {
+                            if (!airportChart.data.datasets.map(d => d.label).includes(ADEP)) {
+                                airportChart.data.datasets.push(createAirportDataset(ADEP, null, airportChart.data.datasets.length));
+                            }
+                        });
+                        airportChart.data.datasets.forEach(dataset => {
+                            dataset.data = airportData[dataset.label].map(d => d?.percentMisDep);
+                        });
+                        airportChart.update();
+
+                        // Update ByTime
+                        const { timeData } = timeAggregate(country, months, objFlightType);
+                        console.log(timeData)
+                        timeChart.data.datasets.forEach(dataset => {
+                            dataset.data = timeData[dataset.label];
+                        })
+                        timeChart.update();
+                    }
+
+                    // Filter changes.
+                    $('#country').change(updateCharts);
+                    $('#checkbox-month input').change(updateCharts);
+                });
+            });
+        };
+    </script>
+</body>
+
+</html>

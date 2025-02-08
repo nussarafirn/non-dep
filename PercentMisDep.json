@@ -1,0 +1,8773 @@
+[
+    {
+        "ADEP State": "Afghanistan",
+        "Month": "Jun-24",
+        "ADEP": "OAKB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Australia",
+        "Month": "Jan-25",
+        "ADEP": "YMML",
+        "MisDep": 2,
+        "TotalDep": 118
+    },
+    {
+        "ADEP State": "Australia",
+        "Month": "Jun-24",
+        "ADEP": "YMML",
+        "MisDep": 1,
+        "TotalDep": 118
+    },
+    {
+        "ADEP State": "Australia",
+        "Month": "May-24",
+        "ADEP": "YMML",
+        "MisDep": 1,
+        "TotalDep": 114
+    },
+    {
+        "ADEP State": "Austria",
+        "Month": "Jan-25",
+        "ADEP": "LOWI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Austria",
+        "Month": "May-24",
+        "ADEP": "LOWW",
+        "MisDep": 1,
+        "TotalDep": 49
+    },
+    {
+        "ADEP State": "Austria",
+        "Month": "Nov-24",
+        "ADEP": "LOWW",
+        "MisDep": 2,
+        "TotalDep": 59
+    },
+    {
+        "ADEP State": "Austria",
+        "Month": "Oct-24",
+        "ADEP": "LOWW",
+        "MisDep": 1,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "Austria",
+        "Month": "Sep-24",
+        "ADEP": "LOWW",
+        "MisDep": 1,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Apr-24",
+        "ADEP": "UBBB",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Aug-24",
+        "ADEP": "UBBB",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Feb-24",
+        "ADEP": "UBBB",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Jan-24",
+        "ADEP": "UBBB",
+        "MisDep": 4,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Jan-25",
+        "ADEP": "UBBB",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Jun-24",
+        "ADEP": "UBBB",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Mar-24",
+        "ADEP": "UBBB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Nov-24",
+        "ADEP": "UBBB",
+        "MisDep": 3,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Oct-24",
+        "ADEP": "UBBB",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Azerbaijan",
+        "Month": "Sep-24",
+        "ADEP": "UBBB",
+        "MisDep": 2,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Apr-24",
+        "ADEP": "OBBI",
+        "MisDep": 61,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Aug-24",
+        "ADEP": "OBBI",
+        "MisDep": 83,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Dec-24",
+        "ADEP": "OBBI",
+        "MisDep": 44,
+        "TotalDep": 44
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Feb-24",
+        "ADEP": "OBBI",
+        "MisDep": 63,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Jan-24",
+        "ADEP": "OBBI",
+        "MisDep": 70,
+        "TotalDep": 70
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Jan-25",
+        "ADEP": "OBBI",
+        "MisDep": 39,
+        "TotalDep": 39
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Jul-24",
+        "ADEP": "OBBI",
+        "MisDep": 57,
+        "TotalDep": 57
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Jun-24",
+        "ADEP": "OBBI",
+        "MisDep": 52,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Mar-24",
+        "ADEP": "OBBI",
+        "MisDep": 60,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "May-24",
+        "ADEP": "OBBI",
+        "MisDep": 61,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Nov-24",
+        "ADEP": "OBBI",
+        "MisDep": 60,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Oct-24",
+        "ADEP": "OBBI",
+        "MisDep": 83,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Bahrain",
+        "Month": "Sep-24",
+        "ADEP": "OBBI",
+        "MisDep": 85,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Apr-24",
+        "ADEP": "VGHS",
+        "MisDep": 3,
+        "TotalDep": 459
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Aug-24",
+        "ADEP": "VGHS",
+        "MisDep": 1,
+        "TotalDep": 409
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Dec-24",
+        "ADEP": "VGEG",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Dec-24",
+        "ADEP": "VGHS",
+        "MisDep": 2,
+        "TotalDep": 432
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Feb-24",
+        "ADEP": "VGEG",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Feb-24",
+        "ADEP": "VGHS",
+        "MisDep": 2,
+        "TotalDep": 434
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Jan-24",
+        "ADEP": "VGHS",
+        "MisDep": 4,
+        "TotalDep": 502
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Jan-25",
+        "ADEP": "VGHS",
+        "MisDep": 1,
+        "TotalDep": 451
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Jun-24",
+        "ADEP": "VGHS",
+        "MisDep": 1,
+        "TotalDep": 435
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Mar-24",
+        "ADEP": "VGHS",
+        "MisDep": 1,
+        "TotalDep": 446
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "May-24",
+        "ADEP": "VGHS",
+        "MisDep": 5,
+        "TotalDep": 540
+    },
+    {
+        "ADEP State": "Bangladesh",
+        "Month": "Sep-24",
+        "ADEP": "VGHS",
+        "MisDep": 2,
+        "TotalDep": 411
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Apr-24",
+        "ADEP": "EBBR",
+        "MisDep": 1,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Apr-24",
+        "ADEP": "EBLG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Aug-24",
+        "ADEP": "EBLG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Dec-24",
+        "ADEP": "EBBR",
+        "MisDep": 31,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Dec-24",
+        "ADEP": "EBLG",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Jan-24",
+        "ADEP": "EBBR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Jan-25",
+        "ADEP": "EBBR",
+        "MisDep": 31,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Jul-24",
+        "ADEP": "EBBR",
+        "MisDep": 1,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Mar-24",
+        "ADEP": "EBLG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "May-24",
+        "ADEP": "EBBR",
+        "MisDep": 1,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Nov-24",
+        "ADEP": "EBLG",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Belgium",
+        "Month": "Oct-24",
+        "ADEP": "EBLG",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Apr-24",
+        "ADEP": "VQPR",
+        "MisDep": 5,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Aug-24",
+        "ADEP": "VQPR",
+        "MisDep": 1,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Dec-24",
+        "ADEP": "VQPR",
+        "MisDep": 2,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Jan-24",
+        "ADEP": "VQPR",
+        "MisDep": 3,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Jan-25",
+        "ADEP": "VQPR",
+        "MisDep": 2,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Jul-24",
+        "ADEP": "VQPR",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Jun-24",
+        "ADEP": "VQPR",
+        "MisDep": 1,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Mar-24",
+        "ADEP": "VQPR",
+        "MisDep": 2,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "May-24",
+        "ADEP": "VQPR",
+        "MisDep": 3,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Nov-24",
+        "ADEP": "VQPR",
+        "MisDep": 1,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Oct-24",
+        "ADEP": "VQPR",
+        "MisDep": 3,
+        "TotalDep": 33
+    },
+    {
+        "ADEP State": "Bhutan",
+        "Month": "Sep-24",
+        "ADEP": "VQPR",
+        "MisDep": 2,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Bosnia and Herzegovina",
+        "Month": "Apr-24",
+        "ADEP": "LQSA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Botswana",
+        "Month": "Jun-24",
+        "ADEP": "FBMN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Botswana",
+        "Month": "May-24",
+        "ADEP": "FBSK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Feb-24",
+        "ADEP": "WBSB",
+        "MisDep": 1,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Jan-24",
+        "ADEP": "WBSB",
+        "MisDep": 1,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Jan-25",
+        "ADEP": "WBSB",
+        "MisDep": 1,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Jun-24",
+        "ADEP": "WBSB",
+        "MisDep": 2,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Oct-24",
+        "ADEP": "WBSB",
+        "MisDep": 2,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Brunei Darussalam",
+        "Month": "Sep-24",
+        "ADEP": "WBSB",
+        "MisDep": 1,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Apr-24",
+        "ADEP": "VDPP",
+        "MisDep": 1,
+        "TotalDep": 567
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Apr-24",
+        "ADEP": "VDSV",
+        "MisDep": 2,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Aug-24",
+        "ADEP": "VDPP",
+        "MisDep": 3,
+        "TotalDep": 581
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Aug-24",
+        "ADEP": "VDSV",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Dec-24",
+        "ADEP": "VDKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Dec-24",
+        "ADEP": "VDPP",
+        "MisDep": 1,
+        "TotalDep": 622
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Feb-24",
+        "ADEP": "VDSV",
+        "MisDep": 1,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Jan-24",
+        "ADEP": "VDSV",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Jun-24",
+        "ADEP": "VDKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Jun-24",
+        "ADEP": "VDSV",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Mar-24",
+        "ADEP": "VDPP",
+        "MisDep": 1,
+        "TotalDep": 616
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "May-24",
+        "ADEP": "VDPP",
+        "MisDep": 1,
+        "TotalDep": 568
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "May-24",
+        "ADEP": "VDSV",
+        "MisDep": 1,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Nov-24",
+        "ADEP": "VDPP",
+        "MisDep": 1,
+        "TotalDep": 602
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Nov-24",
+        "ADEP": "VDSA",
+        "MisDep": 1,
+        "TotalDep": 262
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Oct-24",
+        "ADEP": "VDKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Cambodia",
+        "Month": "Sep-24",
+        "ADEP": "VDSA",
+        "MisDep": 1,
+        "TotalDep": 158
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Apr-24",
+        "ADEP": "CYVR",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Dec-24",
+        "ADEP": "CYVR",
+        "MisDep": 22,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Feb-24",
+        "ADEP": "CYVR",
+        "MisDep": 29,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Jan-24",
+        "ADEP": "CYVR",
+        "MisDep": 28,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Jan-25",
+        "ADEP": "CYVR",
+        "MisDep": 29,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Mar-24",
+        "ADEP": "CYVR",
+        "MisDep": 21,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "May-24",
+        "ADEP": "CYVR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Nov-24",
+        "ADEP": "CYVR",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Canada",
+        "Month": "Oct-24",
+        "ADEP": "CYVR",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Apr-24",
+        "ADEP": "ZGGG",
+        "MisDep": 1,
+        "TotalDep": 604
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Apr-24",
+        "ADEP": "ZGHA",
+        "MisDep": 1,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Apr-24",
+        "ADEP": "ZSAM",
+        "MisDep": 13,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Apr-24",
+        "ADEP": "ZSNJ",
+        "MisDep": 1,
+        "TotalDep": 125
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZGGG",
+        "MisDep": 1,
+        "TotalDep": 708
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZGNN",
+        "MisDep": 1,
+        "TotalDep": 189
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZGOW",
+        "MisDep": 1,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 2,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZSPD",
+        "MisDep": 4,
+        "TotalDep": 889
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Aug-24",
+        "ADEP": "ZUCK",
+        "MisDep": 5,
+        "TotalDep": 285
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Dec-24",
+        "ADEP": "ZJHK",
+        "MisDep": 16,
+        "TotalDep": 80
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Dec-24",
+        "ADEP": "ZJSY",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Dec-24",
+        "ADEP": "ZSPD",
+        "MisDep": 6,
+        "TotalDep": 852
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Dec-24",
+        "ADEP": "ZUCK",
+        "MisDep": 9,
+        "TotalDep": 264
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZBYN",
+        "MisDep": 1,
+        "TotalDep": 39
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZLXY",
+        "MisDep": 2,
+        "TotalDep": 144
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 2,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZPPP",
+        "MisDep": 2,
+        "TotalDep": 433
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZSAM",
+        "MisDep": 11,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Feb-24",
+        "ADEP": "ZSNJ",
+        "MisDep": 1,
+        "TotalDep": 121
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-24",
+        "ADEP": "ZSAM",
+        "MisDep": 13,
+        "TotalDep": 94
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZGKL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZJHK",
+        "MisDep": 83,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZJSY",
+        "MisDep": 7,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZPDL",
+        "MisDep": 7,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZSPD",
+        "MisDep": 7,
+        "TotalDep": 962
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jan-25",
+        "ADEP": "ZUCK",
+        "MisDep": 6,
+        "TotalDep": 276
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jul-24",
+        "ADEP": "ZGGG",
+        "MisDep": 1,
+        "TotalDep": 704
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jul-24",
+        "ADEP": "ZGNN",
+        "MisDep": 2,
+        "TotalDep": 207
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jul-24",
+        "ADEP": "ZUCK",
+        "MisDep": 6,
+        "TotalDep": 312
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jul-24",
+        "ADEP": "ZYTL",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jun-24",
+        "ADEP": "ZGOW",
+        "MisDep": 1,
+        "TotalDep": 57
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jun-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 1,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jun-24",
+        "ADEP": "ZPPP",
+        "MisDep": 1,
+        "TotalDep": 454
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Jun-24",
+        "ADEP": "ZUCK",
+        "MisDep": 2,
+        "TotalDep": 242
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Mar-24",
+        "ADEP": "ZPPP",
+        "MisDep": 1,
+        "TotalDep": 430
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Mar-24",
+        "ADEP": "ZSAM",
+        "MisDep": 13,
+        "TotalDep": 93
+    },
+    {
+        "ADEP State": "China",
+        "Month": "May-24",
+        "ADEP": "ZLDH",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "China",
+        "Month": "May-24",
+        "ADEP": "ZLYL",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZBTJ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZJHK",
+        "MisDep": 3,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZJSY",
+        "MisDep": 1,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 1,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZSPD",
+        "MisDep": 12,
+        "TotalDep": 750
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Nov-24",
+        "ADEP": "ZUCK",
+        "MisDep": 9,
+        "TotalDep": 245
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Oct-24",
+        "ADEP": "ZGGG",
+        "MisDep": 2,
+        "TotalDep": 665
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Oct-24",
+        "ADEP": "ZGKL",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Oct-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 3,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Oct-24",
+        "ADEP": "ZSPD",
+        "MisDep": 10,
+        "TotalDep": 860
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Oct-24",
+        "ADEP": "ZUCK",
+        "MisDep": 11,
+        "TotalDep": 266
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Sep-24",
+        "ADEP": "ZPLJ",
+        "MisDep": 3,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Sep-24",
+        "ADEP": "ZSAM",
+        "MisDep": 1,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Sep-24",
+        "ADEP": "ZSPD",
+        "MisDep": 11,
+        "TotalDep": 759
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Sep-24",
+        "ADEP": "ZUCK",
+        "MisDep": 8,
+        "TotalDep": 228
+    },
+    {
+        "ADEP State": "China",
+        "Month": "Sep-24",
+        "ADEP": "ZUUU",
+        "MisDep": 1,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Dec-24",
+        "ADEP": "LKMT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Dec-24",
+        "ADEP": "LKPR",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Dec-24",
+        "ADEP": "LKTB",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Feb-24",
+        "ADEP": "LKPR",
+        "MisDep": 4,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Feb-24",
+        "ADEP": "LKTB",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jan-24",
+        "ADEP": "LKPR",
+        "MisDep": 5,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jan-24",
+        "ADEP": "LKTB",
+        "MisDep": 2,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jan-25",
+        "ADEP": "LKMT",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jan-25",
+        "ADEP": "LKPR",
+        "MisDep": 6,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jan-25",
+        "ADEP": "LKTB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Jun-24",
+        "ADEP": "LKMT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Mar-24",
+        "ADEP": "LKPR",
+        "MisDep": 4,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Mar-24",
+        "ADEP": "LKTB",
+        "MisDep": 3,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Nov-24",
+        "ADEP": "LKPR",
+        "MisDep": 4,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Nov-24",
+        "ADEP": "LKTB",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Oct-24",
+        "ADEP": "LKMT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Oct-24",
+        "ADEP": "LKPR",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Oct-24",
+        "ADEP": "LKTB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Czech Republic",
+        "Month": "Sep-24",
+        "ADEP": "LKPR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Denmark",
+        "Month": "Mar-24",
+        "ADEP": "EKCH",
+        "MisDep": 1,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "Djibouti",
+        "Month": "Aug-24",
+        "ADEP": "HDAM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Djibouti",
+        "Month": "Jan-24",
+        "ADEP": "HDAM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Djibouti",
+        "Month": "Jun-24",
+        "ADEP": "HDAM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Djibouti",
+        "Month": "Nov-24",
+        "ADEP": "HDAM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Apr-24",
+        "ADEP": "HECA",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Aug-24",
+        "ADEP": "HECA",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Dec-24",
+        "ADEP": "HECA",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Feb-24",
+        "ADEP": "HECA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Jan-25",
+        "ADEP": "HECA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Jul-24",
+        "ADEP": "HECA",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Mar-24",
+        "ADEP": "HEGN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Oct-24",
+        "ADEP": "HECA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Egypt",
+        "Month": "Sep-24",
+        "ADEP": "HECA",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Apr-24",
+        "ADEP": "HAAB",
+        "MisDep": 26,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Aug-24",
+        "ADEP": "HAAB",
+        "MisDep": 32,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Dec-24",
+        "ADEP": "HAAB",
+        "MisDep": 32,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Feb-24",
+        "ADEP": "HAAB",
+        "MisDep": 29,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Jan-24",
+        "ADEP": "HAAB",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Jan-25",
+        "ADEP": "HAAB",
+        "MisDep": 32,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Jul-24",
+        "ADEP": "HAAB",
+        "MisDep": 30,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Jun-24",
+        "ADEP": "HAAB",
+        "MisDep": 30,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Mar-24",
+        "ADEP": "HAAB",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "May-24",
+        "ADEP": "HAAB",
+        "MisDep": 26,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Nov-24",
+        "ADEP": "HAAB",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Oct-24",
+        "ADEP": "HAAB",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Ethiopia",
+        "Month": "Sep-24",
+        "ADEP": "HAAB",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Fiji",
+        "Month": "Jun-24",
+        "ADEP": "NFFN",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Finland",
+        "Month": "Dec-24",
+        "ADEP": "EFHK",
+        "MisDep": 1,
+        "TotalDep": 108
+    },
+    {
+        "ADEP State": "Finland",
+        "Month": "Jan-24",
+        "ADEP": "EFHK",
+        "MisDep": 1,
+        "TotalDep": 92
+    },
+    {
+        "ADEP State": "Finland",
+        "Month": "Jan-25",
+        "ADEP": "EFHK",
+        "MisDep": 1,
+        "TotalDep": 125
+    },
+    {
+        "ADEP State": "Finland",
+        "Month": "Mar-24",
+        "ADEP": "EFHK",
+        "MisDep": 4,
+        "TotalDep": 93
+    },
+    {
+        "ADEP State": "Finland",
+        "Month": "Nov-24",
+        "ADEP": "EFHK",
+        "MisDep": 1,
+        "TotalDep": 86
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Dec-24",
+        "ADEP": "LFLB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Dec-24",
+        "ADEP": "LFOK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Jan-24",
+        "ADEP": "LFPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Jul-24",
+        "ADEP": "LFPB",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Mar-24",
+        "ADEP": "LFPB",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Mar-24",
+        "ADEP": "LFPG",
+        "MisDep": 1,
+        "TotalDep": 94
+    },
+    {
+        "ADEP State": "France",
+        "Month": "May-24",
+        "ADEP": "LFPB",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "France",
+        "Month": "Oct-24",
+        "ADEP": "LFMN",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Georgia",
+        "Month": "May-24",
+        "ADEP": "UGTB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Georgia",
+        "Month": "Oct-24",
+        "ADEP": "UGSB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Apr-24",
+        "ADEP": "EDDM",
+        "MisDep": 1,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Aug-24",
+        "ADEP": "EDDM",
+        "MisDep": 2,
+        "TotalDep": 124
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Dec-24",
+        "ADEP": "EDDM",
+        "MisDep": 1,
+        "TotalDep": 119
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Dec-24",
+        "ADEP": "EDDV",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Jan-24",
+        "ADEP": "EDDM",
+        "MisDep": 2,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Jan-25",
+        "ADEP": "EDDM",
+        "MisDep": 1,
+        "TotalDep": 118
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Mar-24",
+        "ADEP": "EDDM",
+        "MisDep": 1,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "May-24",
+        "ADEP": "EDDF",
+        "MisDep": 1,
+        "TotalDep": 157
+    },
+    {
+        "ADEP State": "Germany",
+        "Month": "Nov-24",
+        "ADEP": "EDFH",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Greece",
+        "Month": "Jul-24",
+        "ADEP": "LGKF",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Greece",
+        "Month": "Sep-24",
+        "ADEP": "LGAV",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Dec-24",
+        "ADEP": "PGUA",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Feb-24",
+        "ADEP": "PGUM",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Jan-24",
+        "ADEP": "PGUM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Jun-24",
+        "ADEP": "PGUA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "May-24",
+        "ADEP": "PGUA",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Nov-24",
+        "ADEP": "PGUA",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Nov-24",
+        "ADEP": "PGUM",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Oct-24",
+        "ADEP": "PGUA",
+        "MisDep": 3,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Guam",
+        "Month": "Oct-24",
+        "ADEP": "PGUM",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Hong Kong (China SAR)",
+        "Month": "Dec-24",
+        "ADEP": "VHHH",
+        "MisDep": 1,
+        "TotalDep": 1565
+    },
+    {
+        "ADEP State": "Hong Kong (China SAR)",
+        "Month": "Jan-24",
+        "ADEP": "VHHH",
+        "MisDep": 1,
+        "TotalDep": 1513
+    },
+    {
+        "ADEP State": "Hong Kong (China SAR)",
+        "Month": "Jul-24",
+        "ADEP": "VHHH",
+        "MisDep": 2,
+        "TotalDep": 1343
+    },
+    {
+        "ADEP State": "Hong Kong (China SAR)",
+        "Month": "Mar-24",
+        "ADEP": "VHHH",
+        "MisDep": 1,
+        "TotalDep": 1528
+    },
+    {
+        "ADEP State": "Hong Kong (China SAR)",
+        "Month": "Oct-24",
+        "ADEP": "VHHH",
+        "MisDep": 1,
+        "TotalDep": 1410
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VAAH",
+        "MisDep": 1,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VANP",
+        "MisDep": 4,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VEBN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VECC",
+        "MisDep": 4,
+        "TotalDep": 275
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VEGT",
+        "MisDep": 12,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VIAR",
+        "MisDep": 34,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VIDP",
+        "MisDep": 4,
+        "TotalDep": 681
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VOBL",
+        "MisDep": 31,
+        "TotalDep": 167
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VOCI",
+        "MisDep": 30,
+        "TotalDep": 72
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VOHS",
+        "MisDep": 1,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VOMM",
+        "MisDep": 13,
+        "TotalDep": 115
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Apr-24",
+        "ADEP": "VOVZ",
+        "MisDep": 7,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VAAH",
+        "MisDep": 1,
+        "TotalDep": 92
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VEBS",
+        "MisDep": 1,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VECC",
+        "MisDep": 4,
+        "TotalDep": 254
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VEGT",
+        "MisDep": 25,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VIAR",
+        "MisDep": 50,
+        "TotalDep": 66
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VIDP",
+        "MisDep": 8,
+        "TotalDep": 802
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VIJO",
+        "MisDep": 10,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOBL",
+        "MisDep": 49,
+        "TotalDep": 173
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOCB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOCI",
+        "MisDep": 28,
+        "TotalDep": 72
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOHS",
+        "MisDep": 1,
+        "TotalDep": 84
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOMM",
+        "MisDep": 14,
+        "TotalDep": 132
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Aug-24",
+        "ADEP": "VOVZ",
+        "MisDep": 5,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VAAH",
+        "MisDep": 3,
+        "TotalDep": 106
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VASU",
+        "MisDep": 7,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VEBS",
+        "MisDep": 2,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VECC",
+        "MisDep": 45,
+        "TotalDep": 358
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VEGT",
+        "MisDep": 30,
+        "TotalDep": 41
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VEGY",
+        "MisDep": 10,
+        "TotalDep": 67
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VIAR",
+        "MisDep": 49,
+        "TotalDep": 104
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VIJP",
+        "MisDep": 4,
+        "TotalDep": 43
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VILK",
+        "MisDep": 15,
+        "TotalDep": 35
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOBL",
+        "MisDep": 31,
+        "TotalDep": 172
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOCB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOCI",
+        "MisDep": 50,
+        "TotalDep": 95
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOHS",
+        "MisDep": 16,
+        "TotalDep": 105
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOMM",
+        "MisDep": 22,
+        "TotalDep": 160
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOTR",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Dec-24",
+        "ADEP": "VOVZ",
+        "MisDep": 13,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VABB",
+        "MisDep": 1,
+        "TotalDep": 327
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VANP",
+        "MisDep": 4,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VAOZ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VAPO",
+        "MisDep": 1,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VEBN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VEBS",
+        "MisDep": 3,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VECC",
+        "MisDep": 5,
+        "TotalDep": 254
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VEGT",
+        "MisDep": 12,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VEGY",
+        "MisDep": 10,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VIAR",
+        "MisDep": 21,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VICG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VIJP",
+        "MisDep": 1,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VILK",
+        "MisDep": 2,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOBL",
+        "MisDep": 45,
+        "TotalDep": 131
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOBZ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOCI",
+        "MisDep": 16,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOMM",
+        "MisDep": 1,
+        "TotalDep": 102
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Feb-24",
+        "ADEP": "VOTR",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VAAH",
+        "MisDep": 3,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VABB",
+        "MisDep": 2,
+        "TotalDep": 362
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VEBS",
+        "MisDep": 2,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VECC",
+        "MisDep": 3,
+        "TotalDep": 285
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VEGT",
+        "MisDep": 14,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VEGY",
+        "MisDep": 9,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VIAR",
+        "MisDep": 22,
+        "TotalDep": 44
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VIDP",
+        "MisDep": 2,
+        "TotalDep": 750
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VILK",
+        "MisDep": 1,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOBL",
+        "MisDep": 49,
+        "TotalDep": 138
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOCI",
+        "MisDep": 20,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOHS",
+        "MisDep": 3,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOHY",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOMM",
+        "MisDep": 1,
+        "TotalDep": 101
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-24",
+        "ADEP": "VOTR",
+        "MisDep": 15,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VAAH",
+        "MisDep": 2,
+        "TotalDep": 101
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VASU",
+        "MisDep": 18,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VEBS",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VECC",
+        "MisDep": 76,
+        "TotalDep": 395
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VEGT",
+        "MisDep": 28,
+        "TotalDep": 38
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VEGY",
+        "MisDep": 5,
+        "TotalDep": 69
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VIAR",
+        "MisDep": 38,
+        "TotalDep": 118
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VIDP",
+        "MisDep": 8,
+        "TotalDep": 947
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VIJP",
+        "MisDep": 1,
+        "TotalDep": 42
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VILK",
+        "MisDep": 15,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOBL",
+        "MisDep": 29,
+        "TotalDep": 181
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOCI",
+        "MisDep": 49,
+        "TotalDep": 93
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOHS",
+        "MisDep": 15,
+        "TotalDep": 108
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOMM",
+        "MisDep": 17,
+        "TotalDep": 155
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOTR",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jan-25",
+        "ADEP": "VOVZ",
+        "MisDep": 8,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VAAH",
+        "MisDep": 19,
+        "TotalDep": 86
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VEBD",
+        "MisDep": 1,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VECC",
+        "MisDep": 2,
+        "TotalDep": 276
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VEGT",
+        "MisDep": 14,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VIAR",
+        "MisDep": 42,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VIDP",
+        "MisDep": 4,
+        "TotalDep": 791
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VIJP",
+        "MisDep": 2,
+        "TotalDep": 42
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VOBL",
+        "MisDep": 42,
+        "TotalDep": 174
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VOCI",
+        "MisDep": 22,
+        "TotalDep": 66
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VOMM",
+        "MisDep": 17,
+        "TotalDep": 133
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jul-24",
+        "ADEP": "VOVZ",
+        "MisDep": 9,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VAAH",
+        "MisDep": 6,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VECC",
+        "MisDep": 2,
+        "TotalDep": 273
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VEGT",
+        "MisDep": 13,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VIAR",
+        "MisDep": 40,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VIDP",
+        "MisDep": 4,
+        "TotalDep": 798
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VIJP",
+        "MisDep": 1,
+        "TotalDep": 39
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VILK",
+        "MisDep": 1,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOBL",
+        "MisDep": 12,
+        "TotalDep": 159
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOCI",
+        "MisDep": 23,
+        "TotalDep": 66
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOHS",
+        "MisDep": 3,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOMM",
+        "MisDep": 13,
+        "TotalDep": 125
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Jun-24",
+        "ADEP": "VOVZ",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VAAH",
+        "MisDep": 1,
+        "TotalDep": 66
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VANP",
+        "MisDep": 2,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VECC",
+        "MisDep": 1,
+        "TotalDep": 278
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VEGT",
+        "MisDep": 17,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VEGY",
+        "MisDep": 9,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VIAR",
+        "MisDep": 26,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VICG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOBL",
+        "MisDep": 28,
+        "TotalDep": 154
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOCI",
+        "MisDep": 18,
+        "TotalDep": 49
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOHS",
+        "MisDep": 4,
+        "TotalDep": 84
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOMD",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOMM",
+        "MisDep": 3,
+        "TotalDep": 110
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Mar-24",
+        "ADEP": "VOTR",
+        "MisDep": 12,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VAAH",
+        "MisDep": 3,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VANP",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VEBN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VEBS",
+        "MisDep": 1,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VECC",
+        "MisDep": 4,
+        "TotalDep": 279
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VEGT",
+        "MisDep": 15,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VIAR",
+        "MisDep": 46,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VIDP",
+        "MisDep": 3,
+        "TotalDep": 701
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VIJP",
+        "MisDep": 1,
+        "TotalDep": 43
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOBL",
+        "MisDep": 24,
+        "TotalDep": 166
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOCI",
+        "MisDep": 31,
+        "TotalDep": 75
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOMD",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOMM",
+        "MisDep": 15,
+        "TotalDep": 125
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOTR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "May-24",
+        "ADEP": "VOVZ",
+        "MisDep": 7,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VAAH",
+        "MisDep": 2,
+        "TotalDep": 98
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VABB",
+        "MisDep": 1,
+        "TotalDep": 342
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VEBN",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VEBS",
+        "MisDep": 2,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VECC",
+        "MisDep": 38,
+        "TotalDep": 314
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VEGT",
+        "MisDep": 26,
+        "TotalDep": 37
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VEGY",
+        "MisDep": 14,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VIAG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VIAR",
+        "MisDep": 58,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VIDP",
+        "MisDep": 2,
+        "TotalDep": 832
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VIJP",
+        "MisDep": 3,
+        "TotalDep": 36
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VILK",
+        "MisDep": 16,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOBL",
+        "MisDep": 41,
+        "TotalDep": 162
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOCI",
+        "MisDep": 40,
+        "TotalDep": 82
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOGO",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOHS",
+        "MisDep": 3,
+        "TotalDep": 101
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOMM",
+        "MisDep": 15,
+        "TotalDep": 132
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOTR",
+        "MisDep": 15,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Nov-24",
+        "ADEP": "VOVZ",
+        "MisDep": 9,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VANP",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VEBS",
+        "MisDep": 2,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VECC",
+        "MisDep": 9,
+        "TotalDep": 282
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VEGT",
+        "MisDep": 27,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VEGY",
+        "MisDep": 3,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VIAR",
+        "MisDep": 57,
+        "TotalDep": 74
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VIDP",
+        "MisDep": 3,
+        "TotalDep": 819
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VIJP",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VILK",
+        "MisDep": 13,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOBL",
+        "MisDep": 41,
+        "TotalDep": 173
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOCI",
+        "MisDep": 29,
+        "TotalDep": 74
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOHS",
+        "MisDep": 2,
+        "TotalDep": 84
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOMM",
+        "MisDep": 14,
+        "TotalDep": 149
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOPB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOTR",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Oct-24",
+        "ADEP": "VOVZ",
+        "MisDep": 10,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VANP",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VAPO",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VEBN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VEBS",
+        "MisDep": 1,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VECC",
+        "MisDep": 2,
+        "TotalDep": 245
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VEGT",
+        "MisDep": 22,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VIAR",
+        "MisDep": 41,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VIDP",
+        "MisDep": 3,
+        "TotalDep": 774
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VIJO",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VIJP",
+        "MisDep": 3,
+        "TotalDep": 35
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VILK",
+        "MisDep": 8,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOBL",
+        "MisDep": 45,
+        "TotalDep": 166
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOCI",
+        "MisDep": 24,
+        "TotalDep": 66
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOHS",
+        "MisDep": 2,
+        "TotalDep": 84
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOMM",
+        "MisDep": 16,
+        "TotalDep": 137
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOTR",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "India",
+        "Month": "Sep-24",
+        "ADEP": "VOVZ",
+        "MisDep": 11,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Apr-24",
+        "ADEP": "WAMM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Apr-24",
+        "ADEP": "WARR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Apr-24",
+        "ADEP": "WIII",
+        "MisDep": 9,
+        "TotalDep": 323
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Aug-24",
+        "ADEP": "WADD",
+        "MisDep": 4,
+        "TotalDep": 195
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Aug-24",
+        "ADEP": "WARR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Aug-24",
+        "ADEP": "WIHH",
+        "MisDep": 2,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Aug-24",
+        "ADEP": "WIII",
+        "MisDep": 14,
+        "TotalDep": 322
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Dec-24",
+        "ADEP": "WIBB",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Dec-24",
+        "ADEP": "WIII",
+        "MisDep": 15,
+        "TotalDep": 342
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Feb-24",
+        "ADEP": "WADD",
+        "MisDep": 2,
+        "TotalDep": 158
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Feb-24",
+        "ADEP": "WIII",
+        "MisDep": 6,
+        "TotalDep": 306
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jan-24",
+        "ADEP": "WADD",
+        "MisDep": 3,
+        "TotalDep": 186
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jan-24",
+        "ADEP": "WIDD",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jan-24",
+        "ADEP": "WIII",
+        "MisDep": 8,
+        "TotalDep": 314
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jan-25",
+        "ADEP": "WIII",
+        "MisDep": 10,
+        "TotalDep": 336
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jul-24",
+        "ADEP": "WADD",
+        "MisDep": 7,
+        "TotalDep": 159
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jul-24",
+        "ADEP": "WIII",
+        "MisDep": 14,
+        "TotalDep": 325
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jun-24",
+        "ADEP": "WALL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jun-24",
+        "ADEP": "WIHH",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Jun-24",
+        "ADEP": "WIII",
+        "MisDep": 8,
+        "TotalDep": 306
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Mar-24",
+        "ADEP": "WIII",
+        "MisDep": 6,
+        "TotalDep": 305
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Mar-24",
+        "ADEP": "WIMM",
+        "MisDep": 2,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "May-24",
+        "ADEP": "WAAA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "May-24",
+        "ADEP": "WADL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "May-24",
+        "ADEP": "WIBB",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "May-24",
+        "ADEP": "WIII",
+        "MisDep": 9,
+        "TotalDep": 316
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Nov-24",
+        "ADEP": "WADD",
+        "MisDep": 1,
+        "TotalDep": 224
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Nov-24",
+        "ADEP": "WIII",
+        "MisDep": 17,
+        "TotalDep": 338
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Oct-24",
+        "ADEP": "WIII",
+        "MisDep": 21,
+        "TotalDep": 384
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Sep-24",
+        "ADEP": "WIHH",
+        "MisDep": 2,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Indonesia",
+        "Month": "Sep-24",
+        "ADEP": "WIII",
+        "MisDep": 16,
+        "TotalDep": 332
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Apr-24",
+        "ADEP": "OIIE",
+        "MisDep": 16,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Aug-24",
+        "ADEP": "OIIE",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Dec-24",
+        "ADEP": "OIIE",
+        "MisDep": 19,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Feb-24",
+        "ADEP": "OIIE",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Feb-24",
+        "ADEP": "OIII",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Jan-24",
+        "ADEP": "OIIE",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Jan-25",
+        "ADEP": "OIIE",
+        "MisDep": 16,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Jul-24",
+        "ADEP": "OIIE",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Jun-24",
+        "ADEP": "OIIE",
+        "MisDep": 12,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Mar-24",
+        "ADEP": "OIIE",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "May-24",
+        "ADEP": "OIIE",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Nov-24",
+        "ADEP": "OIIE",
+        "MisDep": 16,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Oct-24",
+        "ADEP": "OIIE",
+        "MisDep": 18,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Iran (Islamic Republic of)",
+        "Month": "Sep-24",
+        "ADEP": "OIIE",
+        "MisDep": 16,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "Iraq",
+        "Month": "Mar-24",
+        "ADEP": "ORMM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Apr-24",
+        "ADEP": "LLBG",
+        "MisDep": 1,
+        "TotalDep": 55
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Dec-24",
+        "ADEP": "LLBG",
+        "MisDep": 12,
+        "TotalDep": 81
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Jan-25",
+        "ADEP": "LLBG",
+        "MisDep": 4,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Mar-24",
+        "ADEP": "LLBG",
+        "MisDep": 1,
+        "TotalDep": 48
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Nov-24",
+        "ADEP": "LLBG",
+        "MisDep": 7,
+        "TotalDep": 68
+    },
+    {
+        "ADEP State": "Israel",
+        "Month": "Oct-24",
+        "ADEP": "LLBG",
+        "MisDep": 1,
+        "TotalDep": 64
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Apr-24",
+        "ADEP": "LIMC",
+        "MisDep": 1,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Aug-24",
+        "ADEP": "LIMC",
+        "MisDep": 28,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Aug-24",
+        "ADEP": "LIRS",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Dec-24",
+        "ADEP": "LIMC",
+        "MisDep": 31,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Dec-24",
+        "ADEP": "LIRF",
+        "MisDep": 2,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jan-24",
+        "ADEP": "LIMC",
+        "MisDep": 1,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jan-25",
+        "ADEP": "LIMC",
+        "MisDep": 31,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIMC",
+        "MisDep": 30,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIMJ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIML",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIPE",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIPO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jul-24",
+        "ADEP": "LIRF",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jun-24",
+        "ADEP": "LIML",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Jun-24",
+        "ADEP": "LIPX",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "May-24",
+        "ADEP": "LIMC",
+        "MisDep": 1,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Nov-24",
+        "ADEP": "LIMC",
+        "MisDep": 30,
+        "TotalDep": 57
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Nov-24",
+        "ADEP": "LIRF",
+        "MisDep": 1,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Oct-24",
+        "ADEP": "LIMC",
+        "MisDep": 30,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Oct-24",
+        "ADEP": "LIRA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Italy",
+        "Month": "Sep-24",
+        "ADEP": "LIMC",
+        "MisDep": 27,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Aug-24",
+        "ADEP": "RODN",
+        "MisDep": 1,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Dec-24",
+        "ADEP": "RJAA",
+        "MisDep": 3,
+        "TotalDep": 356
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Dec-24",
+        "ADEP": "RJBB",
+        "MisDep": 11,
+        "TotalDep": 224
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Dec-24",
+        "ADEP": "RODN",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Feb-24",
+        "ADEP": "RJBE",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jan-24",
+        "ADEP": "RJGG",
+        "MisDep": 1,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jan-24",
+        "ADEP": "RJTT",
+        "MisDep": 1,
+        "TotalDep": 197
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jan-25",
+        "ADEP": "RJBB",
+        "MisDep": 5,
+        "TotalDep": 209
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jan-25",
+        "ADEP": "RJTT",
+        "MisDep": 1,
+        "TotalDep": 230
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jan-25",
+        "ADEP": "RODN",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jul-24",
+        "ADEP": "RODN",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Jun-24",
+        "ADEP": "RODN",
+        "MisDep": 1,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Mar-24",
+        "ADEP": "RJBB",
+        "MisDep": 1,
+        "TotalDep": 188
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Mar-24",
+        "ADEP": "RODN",
+        "MisDep": 1,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Nov-24",
+        "ADEP": "RJBB",
+        "MisDep": 11,
+        "TotalDep": 210
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Oct-24",
+        "ADEP": "RJAA",
+        "MisDep": 2,
+        "TotalDep": 317
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Oct-24",
+        "ADEP": "RJBB",
+        "MisDep": 3,
+        "TotalDep": 206
+    },
+    {
+        "ADEP State": "Japan",
+        "Month": "Oct-24",
+        "ADEP": "RODN",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Apr-24",
+        "ADEP": "OJAI",
+        "MisDep": 12,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Aug-24",
+        "ADEP": "OJAI",
+        "MisDep": 18,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Dec-24",
+        "ADEP": "OJAI",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Feb-24",
+        "ADEP": "OJAI",
+        "MisDep": 11,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Jan-24",
+        "ADEP": "OJAI",
+        "MisDep": 18,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Jan-25",
+        "ADEP": "OJAI",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Jul-24",
+        "ADEP": "OJAI",
+        "MisDep": 19,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Jun-24",
+        "ADEP": "OJAI",
+        "MisDep": 11,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Mar-24",
+        "ADEP": "OJAI",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "May-24",
+        "ADEP": "OJAI",
+        "MisDep": 14,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Nov-24",
+        "ADEP": "OJAI",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Oct-24",
+        "ADEP": "OJAI",
+        "MisDep": 13,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Jordan",
+        "Month": "Sep-24",
+        "ADEP": "OJAI",
+        "MisDep": 15,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Apr-24",
+        "ADEP": "UAAA",
+        "MisDep": 3,
+        "TotalDep": 90
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Apr-24",
+        "ADEP": "UACC",
+        "MisDep": 1,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Apr-24",
+        "ADEP": "UAII",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Dec-24",
+        "ADEP": "UAAA",
+        "MisDep": 2,
+        "TotalDep": 168
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Dec-24",
+        "ADEP": "UAII",
+        "MisDep": 2,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Feb-24",
+        "ADEP": "UAAA",
+        "MisDep": 10,
+        "TotalDep": 134
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Feb-24",
+        "ADEP": "UACC",
+        "MisDep": 1,
+        "TotalDep": 35
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Jan-24",
+        "ADEP": "UAAA",
+        "MisDep": 7,
+        "TotalDep": 139
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Jan-24",
+        "ADEP": "UADD",
+        "MisDep": 1,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Jan-25",
+        "ADEP": "UAAA",
+        "MisDep": 1,
+        "TotalDep": 182
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Jun-24",
+        "ADEP": "UAAA",
+        "MisDep": 5,
+        "TotalDep": 64
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Mar-24",
+        "ADEP": "UAAA",
+        "MisDep": 8,
+        "TotalDep": 147
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "May-24",
+        "ADEP": "UAAA",
+        "MisDep": 2,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "May-24",
+        "ADEP": "UACC",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Nov-24",
+        "ADEP": "UACC",
+        "MisDep": 1,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Nov-24",
+        "ADEP": "UAII",
+        "MisDep": 1,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Sep-24",
+        "ADEP": "UAAA",
+        "MisDep": 3,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Kazakhstan",
+        "Month": "Sep-24",
+        "ADEP": "UAII",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Apr-24",
+        "ADEP": "HKJK",
+        "MisDep": 2,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Aug-24",
+        "ADEP": "HKJK",
+        "MisDep": 20,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Dec-24",
+        "ADEP": "HKJK",
+        "MisDep": 5,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Feb-24",
+        "ADEP": "HKJK",
+        "MisDep": 6,
+        "TotalDep": 16
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Jan-25",
+        "ADEP": "HKJK",
+        "MisDep": 8,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Jul-24",
+        "ADEP": "HKJK",
+        "MisDep": 17,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Jun-24",
+        "ADEP": "HKJK",
+        "MisDep": 2,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Mar-24",
+        "ADEP": "HKJK",
+        "MisDep": 2,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "May-24",
+        "ADEP": "HKJK",
+        "MisDep": 5,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Nov-24",
+        "ADEP": "HKJK",
+        "MisDep": 1,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Oct-24",
+        "ADEP": "HKJK",
+        "MisDep": 4,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Kenya",
+        "Month": "Sep-24",
+        "ADEP": "HKJK",
+        "MisDep": 8,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Apr-24",
+        "ADEP": "OKKK",
+        "MisDep": 63,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Aug-24",
+        "ADEP": "OKKK",
+        "MisDep": 45,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Dec-24",
+        "ADEP": "OKKK",
+        "MisDep": 57,
+        "TotalDep": 57
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Feb-24",
+        "ADEP": "OKKK",
+        "MisDep": 67,
+        "TotalDep": 67
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Jan-24",
+        "ADEP": "OKKK",
+        "MisDep": 71,
+        "TotalDep": 71
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Jan-25",
+        "ADEP": "OKKK",
+        "MisDep": 61,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Jul-24",
+        "ADEP": "OKKK",
+        "MisDep": 44,
+        "TotalDep": 44
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Jun-24",
+        "ADEP": "OKKK",
+        "MisDep": 43,
+        "TotalDep": 43
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Mar-24",
+        "ADEP": "OKKK",
+        "MisDep": 67,
+        "TotalDep": 67
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "May-24",
+        "ADEP": "OKKK",
+        "MisDep": 62,
+        "TotalDep": 62
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Nov-24",
+        "ADEP": "OKKK",
+        "MisDep": 53,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Oct-24",
+        "ADEP": "OKKK",
+        "MisDep": 65,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Kuwait",
+        "Month": "Sep-24",
+        "ADEP": "OKKK",
+        "MisDep": 47,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Apr-24",
+        "ADEP": "VLLB",
+        "MisDep": 2,
+        "TotalDep": 97
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Apr-24",
+        "ADEP": "VLPS",
+        "MisDep": 2,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Apr-24",
+        "ADEP": "VLVT",
+        "MisDep": 12,
+        "TotalDep": 381
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Aug-24",
+        "ADEP": "VLLB",
+        "MisDep": 4,
+        "TotalDep": 93
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Aug-24",
+        "ADEP": "VLPS",
+        "MisDep": 9,
+        "TotalDep": 88
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Aug-24",
+        "ADEP": "VLSK",
+        "MisDep": 1,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Aug-24",
+        "ADEP": "VLVT",
+        "MisDep": 24,
+        "TotalDep": 397
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Dec-24",
+        "ADEP": "VLLB",
+        "MisDep": 16,
+        "TotalDep": 155
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Dec-24",
+        "ADEP": "VLPS",
+        "MisDep": 12,
+        "TotalDep": 89
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Dec-24",
+        "ADEP": "VLVT",
+        "MisDep": 16,
+        "TotalDep": 416
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Feb-24",
+        "ADEP": "VLLB",
+        "MisDep": 2,
+        "TotalDep": 135
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Feb-24",
+        "ADEP": "VLPS",
+        "MisDep": 3,
+        "TotalDep": 89
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Feb-24",
+        "ADEP": "VLVT",
+        "MisDep": 19,
+        "TotalDep": 377
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-24",
+        "ADEP": "VLLB",
+        "MisDep": 3,
+        "TotalDep": 147
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-24",
+        "ADEP": "VLPS",
+        "MisDep": 2,
+        "TotalDep": 73
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-24",
+        "ADEP": "VLVT",
+        "MisDep": 17,
+        "TotalDep": 370
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-25",
+        "ADEP": "VLLB",
+        "MisDep": 7,
+        "TotalDep": 152
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-25",
+        "ADEP": "VLPS",
+        "MisDep": 17,
+        "TotalDep": 88
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-25",
+        "ADEP": "VLSK",
+        "MisDep": 2,
+        "TotalDep": 37
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jan-25",
+        "ADEP": "VLVT",
+        "MisDep": 9,
+        "TotalDep": 421
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jul-24",
+        "ADEP": "VLLB",
+        "MisDep": 2,
+        "TotalDep": 101
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jul-24",
+        "ADEP": "VLPS",
+        "MisDep": 6,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jul-24",
+        "ADEP": "VLSK",
+        "MisDep": 2,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jul-24",
+        "ADEP": "VLVT",
+        "MisDep": 22,
+        "TotalDep": 393
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jun-24",
+        "ADEP": "VLLB",
+        "MisDep": 3,
+        "TotalDep": 91
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jun-24",
+        "ADEP": "VLPS",
+        "MisDep": 1,
+        "TotalDep": 78
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Jun-24",
+        "ADEP": "VLVT",
+        "MisDep": 17,
+        "TotalDep": 367
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Mar-24",
+        "ADEP": "VLLB",
+        "MisDep": 4,
+        "TotalDep": 135
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Mar-24",
+        "ADEP": "VLPS",
+        "MisDep": 1,
+        "TotalDep": 67
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Mar-24",
+        "ADEP": "VLSK",
+        "MisDep": 2,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Mar-24",
+        "ADEP": "VLVT",
+        "MisDep": 17,
+        "TotalDep": 376
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "May-24",
+        "ADEP": "VLLB",
+        "MisDep": 3,
+        "TotalDep": 99
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "May-24",
+        "ADEP": "VLPS",
+        "MisDep": 4,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "May-24",
+        "ADEP": "VLSK",
+        "MisDep": 5,
+        "TotalDep": 59
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "May-24",
+        "ADEP": "VLVT",
+        "MisDep": 26,
+        "TotalDep": 394
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Nov-24",
+        "ADEP": "VLLB",
+        "MisDep": 34,
+        "TotalDep": 152
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Nov-24",
+        "ADEP": "VLPS",
+        "MisDep": 56,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Nov-24",
+        "ADEP": "VLVT",
+        "MisDep": 14,
+        "TotalDep": 414
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Oct-24",
+        "ADEP": "VLLB",
+        "MisDep": 2,
+        "TotalDep": 122
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Oct-24",
+        "ADEP": "VLPS",
+        "MisDep": 37,
+        "TotalDep": 93
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Oct-24",
+        "ADEP": "VLSK",
+        "MisDep": 1,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Oct-24",
+        "ADEP": "VLVT",
+        "MisDep": 15,
+        "TotalDep": 408
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Sep-24",
+        "ADEP": "VLPS",
+        "MisDep": 30,
+        "TotalDep": 80
+    },
+    {
+        "ADEP State": "Lao People's Democratic Republic",
+        "Month": "Sep-24",
+        "ADEP": "VLVT",
+        "MisDep": 26,
+        "TotalDep": 381
+    },
+    {
+        "ADEP State": "Lithuania",
+        "Month": "Feb-24",
+        "ADEP": "EYSA",
+        "MisDep": 5,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Luxembourg",
+        "Month": "Jan-25",
+        "ADEP": "ELLX",
+        "MisDep": 1,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Macao (China SAR)",
+        "Month": "Dec-24",
+        "ADEP": "VMMC",
+        "MisDep": 1,
+        "TotalDep": 264
+    },
+    {
+        "ADEP State": "Macao (China SAR)",
+        "Month": "Jan-24",
+        "ADEP": "VMMC",
+        "MisDep": 1,
+        "TotalDep": 203
+    },
+    {
+        "ADEP State": "Macao (China SAR)",
+        "Month": "Jun-24",
+        "ADEP": "VMMC",
+        "MisDep": 1,
+        "TotalDep": 213
+    },
+    {
+        "ADEP State": "Macao (China SAR)",
+        "Month": "Nov-24",
+        "ADEP": "VMMC",
+        "MisDep": 1,
+        "TotalDep": 235
+    },
+    {
+        "ADEP State": "Madagascar",
+        "Month": "Dec-24",
+        "ADEP": "FMMI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WBKS",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WMKI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WMKJ",
+        "MisDep": 4,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WMKK",
+        "MisDep": 105,
+        "TotalDep": 1921
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WMKP",
+        "MisDep": 48,
+        "TotalDep": 276
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Apr-24",
+        "ADEP": "WMSA",
+        "MisDep": 6,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKC",
+        "MisDep": 9,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKD",
+        "MisDep": 6,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKJ",
+        "MisDep": 2,
+        "TotalDep": 51
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKK",
+        "MisDep": 48,
+        "TotalDep": 1980
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKL",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMKP",
+        "MisDep": 41,
+        "TotalDep": 256
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Aug-24",
+        "ADEP": "WMSA",
+        "MisDep": 4,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WBGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMKI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMKJ",
+        "MisDep": 3,
+        "TotalDep": 82
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMKK",
+        "MisDep": 31,
+        "TotalDep": 2295
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMKL",
+        "MisDep": 5,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMKP",
+        "MisDep": 3,
+        "TotalDep": 284
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Dec-24",
+        "ADEP": "WMSA",
+        "MisDep": 10,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WBGG",
+        "MisDep": 4,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WBKS",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKJ",
+        "MisDep": 2,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKK",
+        "MisDep": 77,
+        "TotalDep": 1673
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKL",
+        "MisDep": 8,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMKP",
+        "MisDep": 45,
+        "TotalDep": 255
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Feb-24",
+        "ADEP": "WMSA",
+        "MisDep": 11,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WBKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WMKI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WMKJ",
+        "MisDep": 2,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WMKK",
+        "MisDep": 82,
+        "TotalDep": 1819
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WMKP",
+        "MisDep": 18,
+        "TotalDep": 233
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-24",
+        "ADEP": "WMSA",
+        "MisDep": 7,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMKC",
+        "MisDep": 3,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMKJ",
+        "MisDep": 6,
+        "TotalDep": 87
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMKK",
+        "MisDep": 42,
+        "TotalDep": 2299
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMKL",
+        "MisDep": 8,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMKP",
+        "MisDep": 6,
+        "TotalDep": 265
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jan-25",
+        "ADEP": "WMSA",
+        "MisDep": 6,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WBGB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WBGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WBKK",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMKB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMKC",
+        "MisDep": 6,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMKK",
+        "MisDep": 59,
+        "TotalDep": 2037
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMKL",
+        "MisDep": 3,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMKP",
+        "MisDep": 34,
+        "TotalDep": 262
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jul-24",
+        "ADEP": "WMSA",
+        "MisDep": 6,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WBGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WMKJ",
+        "MisDep": 1,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WMKK",
+        "MisDep": 53,
+        "TotalDep": 1940
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WMKL",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WMKP",
+        "MisDep": 30,
+        "TotalDep": 237
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Jun-24",
+        "ADEP": "WMSA",
+        "MisDep": 13,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMKD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMKJ",
+        "MisDep": 3,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMKK",
+        "MisDep": 83,
+        "TotalDep": 1740
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMKL",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMKP",
+        "MisDep": 48,
+        "TotalDep": 275
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Mar-24",
+        "ADEP": "WMSA",
+        "MisDep": 12,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WBGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WBKS",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKB",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKJ",
+        "MisDep": 3,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKK",
+        "MisDep": 94,
+        "TotalDep": 2154
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKN",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMKP",
+        "MisDep": 42,
+        "TotalDep": 289
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "May-24",
+        "ADEP": "WMSA",
+        "MisDep": 10,
+        "TotalDep": 20
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Nov-24",
+        "ADEP": "WMKJ",
+        "MisDep": 8,
+        "TotalDep": 56
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Nov-24",
+        "ADEP": "WMKK",
+        "MisDep": 38,
+        "TotalDep": 2182
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Nov-24",
+        "ADEP": "WMKL",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Nov-24",
+        "ADEP": "WMKP",
+        "MisDep": 4,
+        "TotalDep": 294
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Nov-24",
+        "ADEP": "WMSA",
+        "MisDep": 16,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WBGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WBKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKC",
+        "MisDep": 3,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKJ",
+        "MisDep": 1,
+        "TotalDep": 49
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKK",
+        "MisDep": 50,
+        "TotalDep": 2260
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKL",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMKP",
+        "MisDep": 30,
+        "TotalDep": 261
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Oct-24",
+        "ADEP": "WMSA",
+        "MisDep": 7,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WBGG",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WMKC",
+        "MisDep": 6,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WMKJ",
+        "MisDep": 2,
+        "TotalDep": 48
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WMKK",
+        "MisDep": 55,
+        "TotalDep": 2091
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WMKP",
+        "MisDep": 105,
+        "TotalDep": 266
+    },
+    {
+        "ADEP State": "Malaysia",
+        "Month": "Sep-24",
+        "ADEP": "WMSA",
+        "MisDep": 14,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Apr-24",
+        "ADEP": "VRMM",
+        "MisDep": 4,
+        "TotalDep": 88
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Aug-24",
+        "ADEP": "VRMM",
+        "MisDep": 5,
+        "TotalDep": 123
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Feb-24",
+        "ADEP": "VRDA",
+        "MisDep": 1,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Feb-24",
+        "ADEP": "VRMM",
+        "MisDep": 4,
+        "TotalDep": 124
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jan-24",
+        "ADEP": "VRDA",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jan-24",
+        "ADEP": "VRMM",
+        "MisDep": 5,
+        "TotalDep": 94
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jan-25",
+        "ADEP": "VRDA",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jan-25",
+        "ADEP": "VRMM",
+        "MisDep": 1,
+        "TotalDep": 79
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jul-24",
+        "ADEP": "VRMM",
+        "MisDep": 5,
+        "TotalDep": 119
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Jun-24",
+        "ADEP": "VRMM",
+        "MisDep": 1,
+        "TotalDep": 88
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Mar-24",
+        "ADEP": "VRMM",
+        "MisDep": 2,
+        "TotalDep": 75
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "May-24",
+        "ADEP": "VRMM",
+        "MisDep": 4,
+        "TotalDep": 81
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Oct-24",
+        "ADEP": "VRMM",
+        "MisDep": 1,
+        "TotalDep": 80
+    },
+    {
+        "ADEP State": "Maldives",
+        "Month": "Sep-24",
+        "ADEP": "VRMM",
+        "MisDep": 5,
+        "TotalDep": 74
+    },
+    {
+        "ADEP State": "Malta",
+        "Month": "Aug-24",
+        "ADEP": "LMML",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Malta",
+        "Month": "Feb-24",
+        "ADEP": "LMML",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Mauritius",
+        "Month": "May-24",
+        "ADEP": "FIMP",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Apr-24",
+        "ADEP": "VYMD",
+        "MisDep": 19,
+        "TotalDep": 62
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Apr-24",
+        "ADEP": "VYYY",
+        "MisDep": 13,
+        "TotalDep": 798
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Aug-24",
+        "ADEP": "VYMD",
+        "MisDep": 25,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Aug-24",
+        "ADEP": "VYYY",
+        "MisDep": 21,
+        "TotalDep": 807
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Dec-24",
+        "ADEP": "VYMD",
+        "MisDep": 20,
+        "TotalDep": 68
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Dec-24",
+        "ADEP": "VYYY",
+        "MisDep": 103,
+        "TotalDep": 797
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Feb-24",
+        "ADEP": "VYMD",
+        "MisDep": 14,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Feb-24",
+        "ADEP": "VYYY",
+        "MisDep": 12,
+        "TotalDep": 661
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jan-24",
+        "ADEP": "VYMD",
+        "MisDep": 15,
+        "TotalDep": 61
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jan-24",
+        "ADEP": "VYNT",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jan-24",
+        "ADEP": "VYYY",
+        "MisDep": 9,
+        "TotalDep": 709
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jan-25",
+        "ADEP": "VYMD",
+        "MisDep": 24,
+        "TotalDep": 64
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jan-25",
+        "ADEP": "VYYY",
+        "MisDep": 95,
+        "TotalDep": 834
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jul-24",
+        "ADEP": "VYMD",
+        "MisDep": 21,
+        "TotalDep": 64
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jul-24",
+        "ADEP": "VYYY",
+        "MisDep": 28,
+        "TotalDep": 804
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jun-24",
+        "ADEP": "VYMD",
+        "MisDep": 15,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jun-24",
+        "ADEP": "VYME",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jun-24",
+        "ADEP": "VYNT",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Jun-24",
+        "ADEP": "VYYY",
+        "MisDep": 21,
+        "TotalDep": 772
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Mar-24",
+        "ADEP": "VYMD",
+        "MisDep": 15,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Mar-24",
+        "ADEP": "VYNT",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Mar-24",
+        "ADEP": "VYYY",
+        "MisDep": 6,
+        "TotalDep": 758
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "May-24",
+        "ADEP": "VYMD",
+        "MisDep": 18,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "May-24",
+        "ADEP": "VYYY",
+        "MisDep": 13,
+        "TotalDep": 831
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Nov-24",
+        "ADEP": "VYMD",
+        "MisDep": 17,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Nov-24",
+        "ADEP": "VYNT",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Nov-24",
+        "ADEP": "VYYY",
+        "MisDep": 91,
+        "TotalDep": 730
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Oct-24",
+        "ADEP": "VYMD",
+        "MisDep": 21,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Oct-24",
+        "ADEP": "VYNT",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Oct-24",
+        "ADEP": "VYYY",
+        "MisDep": 95,
+        "TotalDep": 817
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Sep-24",
+        "ADEP": "VYMD",
+        "MisDep": 29,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Sep-24",
+        "ADEP": "VYNT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Myanmar",
+        "Month": "Sep-24",
+        "ADEP": "VYYY",
+        "MisDep": 86,
+        "TotalDep": 788
+    },
+    {
+        "ADEP State": "Namibia",
+        "Month": "Sep-24",
+        "ADEP": "FYWH",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Aug-24",
+        "ADEP": "VNKT",
+        "MisDep": 1,
+        "TotalDep": 188
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Dec-24",
+        "ADEP": "VNBW",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Dec-24",
+        "ADEP": "VNKT",
+        "MisDep": 3,
+        "TotalDep": 219
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Feb-24",
+        "ADEP": "VNKT",
+        "MisDep": 4,
+        "TotalDep": 208
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Jan-24",
+        "ADEP": "VNKT",
+        "MisDep": 2,
+        "TotalDep": 232
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Jan-25",
+        "ADEP": "VNBW",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Jan-25",
+        "ADEP": "VNKT",
+        "MisDep": 5,
+        "TotalDep": 212
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Jun-24",
+        "ADEP": "VNKT",
+        "MisDep": 2,
+        "TotalDep": 202
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Mar-24",
+        "ADEP": "VNKT",
+        "MisDep": 1,
+        "TotalDep": 244
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "May-24",
+        "ADEP": "VNKT",
+        "MisDep": 6,
+        "TotalDep": 305
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Nov-24",
+        "ADEP": "VNBW",
+        "MisDep": 6,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Nov-24",
+        "ADEP": "VNKT",
+        "MisDep": 2,
+        "TotalDep": 211
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Oct-24",
+        "ADEP": "VNKT",
+        "MisDep": 3,
+        "TotalDep": 255
+    },
+    {
+        "ADEP State": "Nepal",
+        "Month": "Sep-24",
+        "ADEP": "VNKT",
+        "MisDep": 5,
+        "TotalDep": 212
+    },
+    {
+        "ADEP State": "Netherlands",
+        "Month": "Apr-24",
+        "ADEP": "EHRD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Netherlands",
+        "Month": "Aug-24",
+        "ADEP": "EHRD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Netherlands",
+        "Month": "Jan-24",
+        "ADEP": "EHAM",
+        "MisDep": 1,
+        "TotalDep": 86
+    },
+    {
+        "ADEP State": "Netherlands",
+        "Month": "Jul-24",
+        "ADEP": "EHAM",
+        "MisDep": 1,
+        "TotalDep": 100
+    },
+    {
+        "ADEP State": "New Caledonia",
+        "Month": "Dec-24",
+        "ADEP": "NWWW",
+        "MisDep": 3,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "New Caledonia",
+        "Month": "Jan-25",
+        "ADEP": "NWWW",
+        "MisDep": 4,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Nigeria",
+        "Month": "Jan-25",
+        "ADEP": "DNMM",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Apr-24",
+        "ADEP": "ENGM",
+        "MisDep": 4,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Dec-24",
+        "ADEP": "ENGM",
+        "MisDep": 2,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Feb-24",
+        "ADEP": "ENGM",
+        "MisDep": 6,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Jan-24",
+        "ADEP": "ENGM",
+        "MisDep": 3,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Jan-25",
+        "ADEP": "ENGM",
+        "MisDep": 2,
+        "TotalDep": 47
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Jul-24",
+        "ADEP": "ENGM",
+        "MisDep": 1,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Jun-24",
+        "ADEP": "ENGM",
+        "MisDep": 1,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Mar-24",
+        "ADEP": "ENGM",
+        "MisDep": 7,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Nov-24",
+        "ADEP": "ENGM",
+        "MisDep": 3,
+        "TotalDep": 39
+    },
+    {
+        "ADEP State": "Norway",
+        "Month": "Sep-24",
+        "ADEP": "ENGM",
+        "MisDep": 1,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Apr-24",
+        "ADEP": "OOMS",
+        "MisDep": 52,
+        "TotalDep": 162
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Aug-24",
+        "ADEP": "OOMS",
+        "MisDep": 66,
+        "TotalDep": 191
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Dec-24",
+        "ADEP": "OOMS",
+        "MisDep": 152,
+        "TotalDep": 160
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Feb-24",
+        "ADEP": "OOMS",
+        "MisDep": 51,
+        "TotalDep": 175
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Jan-24",
+        "ADEP": "OOMS",
+        "MisDep": 73,
+        "TotalDep": 214
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Jan-25",
+        "ADEP": "OOMS",
+        "MisDep": 96,
+        "TotalDep": 169
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Jan-25",
+        "ADEP": "OOSA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Jul-24",
+        "ADEP": "OOMS",
+        "MisDep": 64,
+        "TotalDep": 190
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Jun-24",
+        "ADEP": "OOMS",
+        "MisDep": 72,
+        "TotalDep": 165
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Mar-24",
+        "ADEP": "OOMS",
+        "MisDep": 47,
+        "TotalDep": 155
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "May-24",
+        "ADEP": "OOMS",
+        "MisDep": 44,
+        "TotalDep": 148
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Nov-24",
+        "ADEP": "OOMS",
+        "MisDep": 47,
+        "TotalDep": 155
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Oct-24",
+        "ADEP": "OOMS",
+        "MisDep": 37,
+        "TotalDep": 149
+    },
+    {
+        "ADEP State": "Oman",
+        "Month": "Sep-24",
+        "ADEP": "OOMS",
+        "MisDep": 34,
+        "TotalDep": 140
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Apr-24",
+        "ADEP": "OPLA",
+        "MisDep": 1,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Feb-24",
+        "ADEP": "OPLA",
+        "MisDep": 1,
+        "TotalDep": 49
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jan-24",
+        "ADEP": "OPKC",
+        "MisDep": 1,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jan-25",
+        "ADEP": "OPIS",
+        "MisDep": 2,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jan-25",
+        "ADEP": "OPKC",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jan-25",
+        "ADEP": "OPLA",
+        "MisDep": 1,
+        "TotalDep": 62
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jun-24",
+        "ADEP": "OPIS",
+        "MisDep": 2,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Jun-24",
+        "ADEP": "OPLA",
+        "MisDep": 1,
+        "TotalDep": 55
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Mar-24",
+        "ADEP": "OPIS",
+        "MisDep": 2,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "May-24",
+        "ADEP": "OPKC",
+        "MisDep": 1,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Nov-24",
+        "ADEP": "OPLA",
+        "MisDep": 2,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Pakistan",
+        "Month": "Sep-24",
+        "ADEP": "OPIS",
+        "MisDep": 1,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Apr-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Aug-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Dec-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Jan-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Jul-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Palau",
+        "Month": "Nov-24",
+        "ADEP": "PTRO",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Apr-24",
+        "ADEP": "RPLC",
+        "MisDep": 4,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Apr-24",
+        "ADEP": "RPLL",
+        "MisDep": 1,
+        "TotalDep": 831
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Apr-24",
+        "ADEP": "RPMD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Aug-24",
+        "ADEP": "RPLC",
+        "MisDep": 3,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Aug-24",
+        "ADEP": "RPLL",
+        "MisDep": 2,
+        "TotalDep": 826
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Aug-24",
+        "ADEP": "RPMD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Aug-24",
+        "ADEP": "RPVM",
+        "MisDep": 1,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Dec-24",
+        "ADEP": "RPLC",
+        "MisDep": 6,
+        "TotalDep": 95
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Dec-24",
+        "ADEP": "RPLL",
+        "MisDep": 3,
+        "TotalDep": 832
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Dec-24",
+        "ADEP": "RPMD",
+        "MisDep": 7,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Feb-24",
+        "ADEP": "RPLC",
+        "MisDep": 2,
+        "TotalDep": 62
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Feb-24",
+        "ADEP": "RPLL",
+        "MisDep": 2,
+        "TotalDep": 738
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-24",
+        "ADEP": "RPLC",
+        "MisDep": 5,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-24",
+        "ADEP": "RPLL",
+        "MisDep": 3,
+        "TotalDep": 810
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-25",
+        "ADEP": "RPLC",
+        "MisDep": 3,
+        "TotalDep": 97
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-25",
+        "ADEP": "RPLI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-25",
+        "ADEP": "RPMD",
+        "MisDep": 7,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jan-25",
+        "ADEP": "RPVM",
+        "MisDep": 1,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jul-24",
+        "ADEP": "RPLC",
+        "MisDep": 2,
+        "TotalDep": 90
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jul-24",
+        "ADEP": "RPLL",
+        "MisDep": 4,
+        "TotalDep": 811
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jul-24",
+        "ADEP": "RPMD",
+        "MisDep": 2,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jul-24",
+        "ADEP": "RPVM",
+        "MisDep": 1,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jun-24",
+        "ADEP": "RPLC",
+        "MisDep": 3,
+        "TotalDep": 87
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jun-24",
+        "ADEP": "RPLL",
+        "MisDep": 12,
+        "TotalDep": 819
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jun-24",
+        "ADEP": "RPMD",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Jun-24",
+        "ADEP": "RPVM",
+        "MisDep": 1,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Mar-24",
+        "ADEP": "RPLC",
+        "MisDep": 2,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Mar-24",
+        "ADEP": "RPLL",
+        "MisDep": 1,
+        "TotalDep": 783
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "May-24",
+        "ADEP": "RPLC",
+        "MisDep": 3,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "May-24",
+        "ADEP": "RPLL",
+        "MisDep": 1,
+        "TotalDep": 847
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "May-24",
+        "ADEP": "RPMD",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Nov-24",
+        "ADEP": "RPLC",
+        "MisDep": 4,
+        "TotalDep": 84
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Nov-24",
+        "ADEP": "RPLL",
+        "MisDep": 4,
+        "TotalDep": 759
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Nov-24",
+        "ADEP": "RPMD",
+        "MisDep": 7,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Oct-24",
+        "ADEP": "RPLC",
+        "MisDep": 3,
+        "TotalDep": 74
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Oct-24",
+        "ADEP": "RPLL",
+        "MisDep": 2,
+        "TotalDep": 786
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Oct-24",
+        "ADEP": "RPVM",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Sep-24",
+        "ADEP": "RPLC",
+        "MisDep": 1,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Philippines",
+        "Month": "Sep-24",
+        "ADEP": "RPLL",
+        "MisDep": 3,
+        "TotalDep": 798
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Dec-24",
+        "ADEP": "EPKT",
+        "MisDep": 10,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Feb-24",
+        "ADEP": "EPKT",
+        "MisDep": 10,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Jan-24",
+        "ADEP": "EPKT",
+        "MisDep": 11,
+        "TotalDep": 12
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Jan-25",
+        "ADEP": "EPKT",
+        "MisDep": 9,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Mar-24",
+        "ADEP": "EPKT",
+        "MisDep": 7,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Nov-24",
+        "ADEP": "EPKT",
+        "MisDep": 10,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Poland",
+        "Month": "Nov-24",
+        "ADEP": "EPWR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Portugal",
+        "Month": "Apr-24",
+        "ADEP": "LPPR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Portugal",
+        "Month": "Jan-24",
+        "ADEP": "LPPT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Portugal",
+        "Month": "Sep-24",
+        "ADEP": "LPPR",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Apr-24",
+        "ADEP": "OTHH",
+        "MisDep": 8,
+        "TotalDep": 414
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Aug-24",
+        "ADEP": "OTHH",
+        "MisDep": 1,
+        "TotalDep": 423
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Dec-24",
+        "ADEP": "OTBD",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Dec-24",
+        "ADEP": "OTHH",
+        "MisDep": 107,
+        "TotalDep": 407
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Feb-24",
+        "ADEP": "OTHH",
+        "MisDep": 2,
+        "TotalDep": 381
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Jan-25",
+        "ADEP": "OTHH",
+        "MisDep": 5,
+        "TotalDep": 388
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Jun-24",
+        "ADEP": "OTHH",
+        "MisDep": 65,
+        "TotalDep": 356
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Mar-24",
+        "ADEP": "OTHH",
+        "MisDep": 1,
+        "TotalDep": 418
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "May-24",
+        "ADEP": "OTHH",
+        "MisDep": 6,
+        "TotalDep": 421
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Nov-24",
+        "ADEP": "OTHH",
+        "MisDep": 17,
+        "TotalDep": 414
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Oct-24",
+        "ADEP": "OTHH",
+        "MisDep": 1,
+        "TotalDep": 410
+    },
+    {
+        "ADEP State": "Qatar",
+        "Month": "Sep-24",
+        "ADEP": "OTHH",
+        "MisDep": 2,
+        "TotalDep": 379
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Dec-24",
+        "ADEP": "RKPK",
+        "MisDep": 1,
+        "TotalDep": 136
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Jan-24",
+        "ADEP": "RKJK",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Jan-24",
+        "ADEP": "RKSI",
+        "MisDep": 1,
+        "TotalDep": 863
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Jan-25",
+        "ADEP": "RKSI",
+        "MisDep": 1,
+        "TotalDep": 828
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Jul-24",
+        "ADEP": "RKSI",
+        "MisDep": 1,
+        "TotalDep": 752
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Mar-24",
+        "ADEP": "RKSS",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Nov-24",
+        "ADEP": "RKSI",
+        "MisDep": 4,
+        "TotalDep": 747
+    },
+    {
+        "ADEP State": "Republic of Korea",
+        "Month": "Oct-24",
+        "ADEP": "RKPK",
+        "MisDep": 1,
+        "TotalDep": 124
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Apr-24",
+        "ADEP": "FMEE",
+        "MisDep": 1,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Dec-24",
+        "ADEP": "FMEE",
+        "MisDep": 3,
+        "TotalDep": 14
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Feb-24",
+        "ADEP": "FMEE",
+        "MisDep": 2,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Jan-24",
+        "ADEP": "FMEE",
+        "MisDep": 1,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Jan-25",
+        "ADEP": "FMEE",
+        "MisDep": 2,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Jun-24",
+        "ADEP": "FMEE",
+        "MisDep": 4,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Mar-24",
+        "ADEP": "FMEE",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "May-24",
+        "ADEP": "FMEE",
+        "MisDep": 1,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Nov-24",
+        "ADEP": "FMEE",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Reunion",
+        "Month": "Oct-24",
+        "ADEP": "FMEE",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Romania",
+        "Month": "Dec-24",
+        "ADEP": "LROP",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Romania",
+        "Month": "Jan-25",
+        "ADEP": "LROP",
+        "MisDep": 3,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Apr-24",
+        "ADEP": "UUWW",
+        "MisDep": 1,
+        "TotalDep": 38
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Aug-24",
+        "ADEP": "UWKD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Dec-24",
+        "ADEP": "UNWW",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Dec-24",
+        "ADEP": "UWUU",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Oct-24",
+        "ADEP": "UWKD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Russian Federation",
+        "Month": "Sep-24",
+        "ADEP": "UUEE",
+        "MisDep": 1,
+        "TotalDep": 74
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Apr-24",
+        "ADEP": "OEJN",
+        "MisDep": 36,
+        "TotalDep": 76
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Apr-24",
+        "ADEP": "OEMA",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Apr-24",
+        "ADEP": "OERK",
+        "MisDep": 22,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Aug-24",
+        "ADEP": "OEDF",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Aug-24",
+        "ADEP": "OEJN",
+        "MisDep": 49,
+        "TotalDep": 102
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Aug-24",
+        "ADEP": "OERK",
+        "MisDep": 24,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Dec-24",
+        "ADEP": "OEJN",
+        "MisDep": 101,
+        "TotalDep": 105
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Dec-24",
+        "ADEP": "OEMA",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Dec-24",
+        "ADEP": "OERK",
+        "MisDep": 59,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Feb-24",
+        "ADEP": "OEJN",
+        "MisDep": 50,
+        "TotalDep": 106
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Feb-24",
+        "ADEP": "OERK",
+        "MisDep": 15,
+        "TotalDep": 37
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-24",
+        "ADEP": "OEJN",
+        "MisDep": 64,
+        "TotalDep": 113
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-24",
+        "ADEP": "OEMA",
+        "MisDep": 2,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-24",
+        "ADEP": "OERK",
+        "MisDep": 21,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-25",
+        "ADEP": "OEDF",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-25",
+        "ADEP": "OEJN",
+        "MisDep": 98,
+        "TotalDep": 98
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-25",
+        "ADEP": "OEMA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jan-25",
+        "ADEP": "OERK",
+        "MisDep": 58,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jul-24",
+        "ADEP": "OEDF",
+        "MisDep": 2,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jul-24",
+        "ADEP": "OEJN",
+        "MisDep": 31,
+        "TotalDep": 60
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jul-24",
+        "ADEP": "OEMA",
+        "MisDep": 8,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jul-24",
+        "ADEP": "OERK",
+        "MisDep": 16,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jun-24",
+        "ADEP": "OEDF",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jun-24",
+        "ADEP": "OEJN",
+        "MisDep": 46,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Jun-24",
+        "ADEP": "OERK",
+        "MisDep": 19,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Mar-24",
+        "ADEP": "OEJN",
+        "MisDep": 55,
+        "TotalDep": 109
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Mar-24",
+        "ADEP": "OERK",
+        "MisDep": 20,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "May-24",
+        "ADEP": "OEJN",
+        "MisDep": 31,
+        "TotalDep": 62
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "May-24",
+        "ADEP": "OEMA",
+        "MisDep": 19,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "May-24",
+        "ADEP": "OERK",
+        "MisDep": 20,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Nov-24",
+        "ADEP": "OEJN",
+        "MisDep": 55,
+        "TotalDep": 96
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Nov-24",
+        "ADEP": "OEMA",
+        "MisDep": 4,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Nov-24",
+        "ADEP": "OERK",
+        "MisDep": 31,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Oct-24",
+        "ADEP": "OEDF",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Oct-24",
+        "ADEP": "OEJN",
+        "MisDep": 35,
+        "TotalDep": 87
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Oct-24",
+        "ADEP": "OERK",
+        "MisDep": 28,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Sep-24",
+        "ADEP": "OEDF",
+        "MisDep": 5,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Sep-24",
+        "ADEP": "OEJN",
+        "MisDep": 65,
+        "TotalDep": 85
+    },
+    {
+        "ADEP State": "Saudi Arabia",
+        "Month": "Sep-24",
+        "ADEP": "OERK",
+        "MisDep": 42,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Serbia",
+        "Month": "Oct-24",
+        "ADEP": "LYBE",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Apr-24",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Aug-24",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Feb-24",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Jan-24",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Jan-25",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Jul-24",
+        "ADEP": "FSIA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Nov-24",
+        "ADEP": "FSIA",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Seychelles",
+        "Month": "Oct-24",
+        "ADEP": "FSIA",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Apr-24",
+        "ADEP": "WSSS",
+        "MisDep": 1,
+        "TotalDep": 2396
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Aug-24",
+        "ADEP": "WSAP",
+        "MisDep": 1,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Aug-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 37
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Aug-24",
+        "ADEP": "WSSS",
+        "MisDep": 4,
+        "TotalDep": 2742
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Dec-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Dec-24",
+        "ADEP": "WSSS",
+        "MisDep": 6,
+        "TotalDep": 2874
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Feb-24",
+        "ADEP": "WSAP",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Feb-24",
+        "ADEP": "WSSS",
+        "MisDep": 1,
+        "TotalDep": 2166
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jan-24",
+        "ADEP": "WSAP",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jan-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jan-25",
+        "ADEP": "WSSS",
+        "MisDep": 2,
+        "TotalDep": 2889
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jul-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jul-24",
+        "ADEP": "WSSS",
+        "MisDep": 1,
+        "TotalDep": 2350
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jun-24",
+        "ADEP": "WSAT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Jun-24",
+        "ADEP": "WSSS",
+        "MisDep": 4,
+        "TotalDep": 2580
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Mar-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 63
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Mar-24",
+        "ADEP": "WSSS",
+        "MisDep": 2,
+        "TotalDep": 2369
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "May-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 44
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "May-24",
+        "ADEP": "WSSS",
+        "MisDep": 1,
+        "TotalDep": 2568
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Nov-24",
+        "ADEP": "WSSL",
+        "MisDep": 1,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Nov-24",
+        "ADEP": "WSSS",
+        "MisDep": 2,
+        "TotalDep": 2741
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Oct-24",
+        "ADEP": "WSAT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Oct-24",
+        "ADEP": "WSSS",
+        "MisDep": 4,
+        "TotalDep": 2823
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Sep-24",
+        "ADEP": "WSAP",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Sep-24",
+        "ADEP": "WSSL",
+        "MisDep": 3,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "Singapore",
+        "Month": "Sep-24",
+        "ADEP": "WSSS",
+        "MisDep": 1,
+        "TotalDep": 2568
+    },
+    {
+        "ADEP State": "Slovakia",
+        "Month": "Dec-24",
+        "ADEP": "LZIB",
+        "MisDep": 6,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Slovakia",
+        "Month": "Jan-25",
+        "ADEP": "LZIB",
+        "MisDep": 5,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Slovakia",
+        "Month": "Nov-24",
+        "ADEP": "LZIB",
+        "MisDep": 5,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Apr-24",
+        "ADEP": "FAOR",
+        "MisDep": 2,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Jul-24",
+        "ADEP": "FAOR",
+        "MisDep": 2,
+        "TotalDep": 33
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Jun-24",
+        "ADEP": "FAOR",
+        "MisDep": 1,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Mar-24",
+        "ADEP": "FACT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Mar-24",
+        "ADEP": "FAOR",
+        "MisDep": 2,
+        "TotalDep": 26
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "May-24",
+        "ADEP": "FAOR",
+        "MisDep": 1,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "South Africa",
+        "Month": "Oct-24",
+        "ADEP": "FAOR",
+        "MisDep": 1,
+        "TotalDep": 34
+    },
+    {
+        "ADEP State": "Spain and Canary Islands",
+        "Month": "Dec-24",
+        "ADEP": "LEBL",
+        "MisDep": 1,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Apr-24",
+        "ADEP": "ESSA",
+        "MisDep": 30,
+        "TotalDep": 35
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Aug-24",
+        "ADEP": "ESSA",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Dec-24",
+        "ADEP": "ESGG",
+        "MisDep": 1,
+        "TotalDep": 7
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Dec-24",
+        "ADEP": "ESSA",
+        "MisDep": 32,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Feb-24",
+        "ADEP": "ESGG",
+        "MisDep": 1,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Feb-24",
+        "ADEP": "ESSA",
+        "MisDep": 33,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jan-24",
+        "ADEP": "ESGG",
+        "MisDep": 5,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jan-24",
+        "ADEP": "ESSA",
+        "MisDep": 36,
+        "TotalDep": 53
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jan-25",
+        "ADEP": "ESGG",
+        "MisDep": 1,
+        "TotalDep": 10
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jan-25",
+        "ADEP": "ESSA",
+        "MisDep": 37,
+        "TotalDep": 52
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jul-24",
+        "ADEP": "ESSA",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Jun-24",
+        "ADEP": "ESSA",
+        "MisDep": 30,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Mar-24",
+        "ADEP": "ESGG",
+        "MisDep": 2,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Mar-24",
+        "ADEP": "ESSA",
+        "MisDep": 36,
+        "TotalDep": 54
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "May-24",
+        "ADEP": "ESSA",
+        "MisDep": 31,
+        "TotalDep": 31
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Nov-24",
+        "ADEP": "ESSA",
+        "MisDep": 33,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Oct-24",
+        "ADEP": "ESSA",
+        "MisDep": 31,
+        "TotalDep": 32
+    },
+    {
+        "ADEP State": "Sweden",
+        "Month": "Sep-24",
+        "ADEP": "ESSA",
+        "MisDep": 30,
+        "TotalDep": 30
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Apr-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Apr-24",
+        "ADEP": "LSZH",
+        "MisDep": 60,
+        "TotalDep": 89
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Aug-24",
+        "ADEP": "LSGG",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Aug-24",
+        "ADEP": "LSZH",
+        "MisDep": 87,
+        "TotalDep": 120
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Dec-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Dec-24",
+        "ADEP": "LSZH",
+        "MisDep": 75,
+        "TotalDep": 119
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Feb-24",
+        "ADEP": "LSZH",
+        "MisDep": 59,
+        "TotalDep": 78
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jan-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jan-24",
+        "ADEP": "LSZH",
+        "MisDep": 65,
+        "TotalDep": 82
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jan-25",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jan-25",
+        "ADEP": "LSZH",
+        "MisDep": 66,
+        "TotalDep": 112
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jul-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jul-24",
+        "ADEP": "LSZH",
+        "MisDep": 62,
+        "TotalDep": 82
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Jun-24",
+        "ADEP": "LSZH",
+        "MisDep": 58,
+        "TotalDep": 90
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Mar-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Mar-24",
+        "ADEP": "LSZH",
+        "MisDep": 64,
+        "TotalDep": 83
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "May-24",
+        "ADEP": "LSZH",
+        "MisDep": 62,
+        "TotalDep": 96
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Nov-24",
+        "ADEP": "LSZH",
+        "MisDep": 85,
+        "TotalDep": 125
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Oct-24",
+        "ADEP": "LSGG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Oct-24",
+        "ADEP": "LSZH",
+        "MisDep": 84,
+        "TotalDep": 120
+    },
+    {
+        "ADEP State": "Switzerland",
+        "Month": "Sep-24",
+        "ADEP": "LSZH",
+        "MisDep": 66,
+        "TotalDep": 95
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Apr-24",
+        "ADEP": "VTBU",
+        "MisDep": 1,
+        "TotalDep": 92
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Apr-24",
+        "ADEP": "VTSP",
+        "MisDep": 3,
+        "TotalDep": 2228
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Aug-24",
+        "ADEP": "VTBU",
+        "MisDep": 1,
+        "TotalDep": 88
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Dec-24",
+        "ADEP": "VTBU",
+        "MisDep": 2,
+        "TotalDep": 120
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Dec-24",
+        "ADEP": "VTCT",
+        "MisDep": 2,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Dec-24",
+        "ADEP": "VTSG",
+        "MisDep": 1,
+        "TotalDep": 270
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Jan-25",
+        "ADEP": "VTBD",
+        "MisDep": 1,
+        "TotalDep": 4500
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Jan-25",
+        "ADEP": "VTBU",
+        "MisDep": 1,
+        "TotalDep": 111
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Jul-24",
+        "ADEP": "VTBU",
+        "MisDep": 1,
+        "TotalDep": 90
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Jul-24",
+        "ADEP": "VTSM",
+        "MisDep": 1,
+        "TotalDep": 172
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Mar-24",
+        "ADEP": "VTBU",
+        "MisDep": 3,
+        "TotalDep": 140
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Mar-24",
+        "ADEP": "VTCT",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Mar-24",
+        "ADEP": "VTSP",
+        "MisDep": 2,
+        "TotalDep": 2488
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "May-24",
+        "ADEP": "VTBU",
+        "MisDep": 1,
+        "TotalDep": 36
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "May-24",
+        "ADEP": "VTCC",
+        "MisDep": 1,
+        "TotalDep": 581
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Nov-24",
+        "ADEP": "VTSM",
+        "MisDep": 1,
+        "TotalDep": 156
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Sep-24",
+        "ADEP": "VTBS",
+        "MisDep": 1,
+        "TotalDep": 10908
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Sep-24",
+        "ADEP": "VTBU",
+        "MisDep": 3,
+        "TotalDep": 107
+    },
+    {
+        "ADEP State": "Thailand",
+        "Month": "Sep-24",
+        "ADEP": "VTSG",
+        "MisDep": 1,
+        "TotalDep": 185
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Apr-24",
+        "ADEP": "LTAI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Apr-24",
+        "ADEP": "LTCE",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Apr-24",
+        "ADEP": "LTFJ",
+        "MisDep": 5,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Apr-24",
+        "ADEP": "LTFM",
+        "MisDep": 183,
+        "TotalDep": 196
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Aug-24",
+        "ADEP": "LTBU",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Aug-24",
+        "ADEP": "LTCG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Aug-24",
+        "ADEP": "LTFM",
+        "MisDep": 242,
+        "TotalDep": 269
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Dec-24",
+        "ADEP": "LTFM",
+        "MisDep": 245,
+        "TotalDep": 253
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Feb-24",
+        "ADEP": "LTAC",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Feb-24",
+        "ADEP": "LTFJ",
+        "MisDep": 7,
+        "TotalDep": 9
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Feb-24",
+        "ADEP": "LTFM",
+        "MisDep": 192,
+        "TotalDep": 213
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-24",
+        "ADEP": "LTAC",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-24",
+        "ADEP": "LTBJ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-24",
+        "ADEP": "LTCG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-24",
+        "ADEP": "LTFM",
+        "MisDep": 211,
+        "TotalDep": 223
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-25",
+        "ADEP": "LTAZ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-25",
+        "ADEP": "LTBA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jan-25",
+        "ADEP": "LTFM",
+        "MisDep": 229,
+        "TotalDep": 242
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jul-24",
+        "ADEP": "LTAI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jul-24",
+        "ADEP": "LTCG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jul-24",
+        "ADEP": "LTFM",
+        "MisDep": 216,
+        "TotalDep": 228
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jun-24",
+        "ADEP": "LTBA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Jun-24",
+        "ADEP": "LTFM",
+        "MisDep": 184,
+        "TotalDep": 206
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Mar-24",
+        "ADEP": "LTAI",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Mar-24",
+        "ADEP": "LTFJ",
+        "MisDep": 5,
+        "TotalDep": 8
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Mar-24",
+        "ADEP": "LTFM",
+        "MisDep": 190,
+        "TotalDep": 203
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "May-24",
+        "ADEP": "LTBA",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "May-24",
+        "ADEP": "LTFM",
+        "MisDep": 205,
+        "TotalDep": 232
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Nov-24",
+        "ADEP": "LTCG",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Nov-24",
+        "ADEP": "LTFM",
+        "MisDep": 337,
+        "TotalDep": 352
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Oct-24",
+        "ADEP": "LTFM",
+        "MisDep": 335,
+        "TotalDep": 359
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Sep-24",
+        "ADEP": "LTBJ",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkiye",
+        "Month": "Sep-24",
+        "ADEP": "LTFM",
+        "MisDep": 228,
+        "TotalDep": 248
+    },
+    {
+        "ADEP State": "Turkmenistan",
+        "Month": "Dec-24",
+        "ADEP": "UTAK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkmenistan",
+        "Month": "Dec-24",
+        "ADEP": "UTAV",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Turkmenistan",
+        "Month": "Mar-24",
+        "ADEP": "UTAA",
+        "MisDep": 5,
+        "TotalDep": 22
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Apr-24",
+        "ADEP": "OMAA",
+        "MisDep": 9,
+        "TotalDep": 182
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Apr-24",
+        "ADEP": "OMDB",
+        "MisDep": 9,
+        "TotalDep": 374
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Apr-24",
+        "ADEP": "OMRK",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Apr-24",
+        "ADEP": "OMSJ",
+        "MisDep": 50,
+        "TotalDep": 75
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Aug-24",
+        "ADEP": "OMAA",
+        "MisDep": 1,
+        "TotalDep": 202
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Aug-24",
+        "ADEP": "OMAL",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Aug-24",
+        "ADEP": "OMDW",
+        "MisDep": 1,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Aug-24",
+        "ADEP": "OMRK",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Aug-24",
+        "ADEP": "OMSJ",
+        "MisDep": 66,
+        "TotalDep": 99
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMAA",
+        "MisDep": 172,
+        "TotalDep": 185
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMAD",
+        "MisDep": 3,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMAL",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMDB",
+        "MisDep": 377,
+        "TotalDep": 411
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMDW",
+        "MisDep": 32,
+        "TotalDep": 33
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Dec-24",
+        "ADEP": "OMSJ",
+        "MisDep": 115,
+        "TotalDep": 116
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Feb-24",
+        "ADEP": "OMAL",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Feb-24",
+        "ADEP": "OMDB",
+        "MisDep": 5,
+        "TotalDep": 379
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Feb-24",
+        "ADEP": "OMDW",
+        "MisDep": 1,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Feb-24",
+        "ADEP": "OMRK",
+        "MisDep": 4,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Feb-24",
+        "ADEP": "OMSJ",
+        "MisDep": 62,
+        "TotalDep": 68
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-24",
+        "ADEP": "OMDB",
+        "MisDep": 1,
+        "TotalDep": 393
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-24",
+        "ADEP": "OMDW",
+        "MisDep": 1,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-24",
+        "ADEP": "OMRK",
+        "MisDep": 4,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-24",
+        "ADEP": "OMSJ",
+        "MisDep": 55,
+        "TotalDep": 68
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMAA",
+        "MisDep": 190,
+        "TotalDep": 190
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMAD",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMDB",
+        "MisDep": 401,
+        "TotalDep": 401
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMDW",
+        "MisDep": 24,
+        "TotalDep": 24
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMRK",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jan-25",
+        "ADEP": "OMSJ",
+        "MisDep": 116,
+        "TotalDep": 116
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jul-24",
+        "ADEP": "OMDB",
+        "MisDep": 3,
+        "TotalDep": 478
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jul-24",
+        "ADEP": "OMSJ",
+        "MisDep": 54,
+        "TotalDep": 94
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jun-24",
+        "ADEP": "OMAA",
+        "MisDep": 43,
+        "TotalDep": 181
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jun-24",
+        "ADEP": "OMAD",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jun-24",
+        "ADEP": "OMDB",
+        "MisDep": 90,
+        "TotalDep": 384
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jun-24",
+        "ADEP": "OMRK",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Jun-24",
+        "ADEP": "OMSJ",
+        "MisDep": 66,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Mar-24",
+        "ADEP": "OMDB",
+        "MisDep": 3,
+        "TotalDep": 437
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Mar-24",
+        "ADEP": "OMRK",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Mar-24",
+        "ADEP": "OMSJ",
+        "MisDep": 57,
+        "TotalDep": 69
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "May-24",
+        "ADEP": "OMAA",
+        "MisDep": 4,
+        "TotalDep": 186
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "May-24",
+        "ADEP": "OMAL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "May-24",
+        "ADEP": "OMDB",
+        "MisDep": 6,
+        "TotalDep": 401
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "May-24",
+        "ADEP": "OMRK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "May-24",
+        "ADEP": "OMSJ",
+        "MisDep": 43,
+        "TotalDep": 75
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Nov-24",
+        "ADEP": "OMAA",
+        "MisDep": 7,
+        "TotalDep": 233
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Nov-24",
+        "ADEP": "OMAD",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Nov-24",
+        "ADEP": "OMDB",
+        "MisDep": 20,
+        "TotalDep": 444
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Nov-24",
+        "ADEP": "OMRK",
+        "MisDep": 3,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Nov-24",
+        "ADEP": "OMSJ",
+        "MisDep": 58,
+        "TotalDep": 116
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Oct-24",
+        "ADEP": "OMAA",
+        "MisDep": 2,
+        "TotalDep": 197
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Oct-24",
+        "ADEP": "OMSJ",
+        "MisDep": 57,
+        "TotalDep": 86
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Sep-24",
+        "ADEP": "OMAA",
+        "MisDep": 1,
+        "TotalDep": 196
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Sep-24",
+        "ADEP": "OMDW",
+        "MisDep": 1,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Sep-24",
+        "ADEP": "OMRK",
+        "MisDep": 3,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Arab Emirates",
+        "Month": "Sep-24",
+        "ADEP": "OMSJ",
+        "MisDep": 59,
+        "TotalDep": 81
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Apr-24",
+        "ADEP": "EGCC",
+        "MisDep": 3,
+        "TotalDep": 18
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Dec-24",
+        "ADEP": "EGCC",
+        "MisDep": 3,
+        "TotalDep": 28
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Dec-24",
+        "ADEP": "EGGW",
+        "MisDep": 1,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Dec-24",
+        "ADEP": "EGKK",
+        "MisDep": 2,
+        "TotalDep": 46
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Feb-24",
+        "ADEP": "EGCC",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Feb-24",
+        "ADEP": "EGGW",
+        "MisDep": 2,
+        "TotalDep": 3
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Feb-24",
+        "ADEP": "EGKK",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Jan-24",
+        "ADEP": "EGCC",
+        "MisDep": 2,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Jan-25",
+        "ADEP": "EGCC",
+        "MisDep": 1,
+        "TotalDep": 27
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Jan-25",
+        "ADEP": "EGKK",
+        "MisDep": 1,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Jul-24",
+        "ADEP": "EGLL",
+        "MisDep": 1,
+        "TotalDep": 292
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Mar-24",
+        "ADEP": "EGCC",
+        "MisDep": 3,
+        "TotalDep": 5
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Nov-24",
+        "ADEP": "EGCC",
+        "MisDep": 4,
+        "TotalDep": 25
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Nov-24",
+        "ADEP": "EGKK",
+        "MisDep": 1,
+        "TotalDep": 40
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Oct-24",
+        "ADEP": "EGGW",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Sep-24",
+        "ADEP": "EGLF",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United Kingdom",
+        "Month": "Sep-24",
+        "ADEP": "EGLL",
+        "MisDep": 2,
+        "TotalDep": 318
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Apr-24",
+        "ADEP": "FJDG",
+        "MisDep": 1,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Apr-24",
+        "ADEP": "KJFK",
+        "MisDep": 1,
+        "TotalDep": 17
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Aug-24",
+        "ADEP": "FJDG",
+        "MisDep": 2,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Dec-24",
+        "ADEP": "FJDG",
+        "MisDep": 2,
+        "TotalDep": 4
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Dec-24",
+        "ADEP": "KEWR",
+        "MisDep": 1,
+        "TotalDep": 21
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jan-24",
+        "ADEP": "FJDG",
+        "MisDep": 1,
+        "TotalDep": 2
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jan-25",
+        "ADEP": "FJDG",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jul-24",
+        "ADEP": "KEWR",
+        "MisDep": 1,
+        "TotalDep": 11
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jul-24",
+        "ADEP": "KJFK",
+        "MisDep": 1,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jul-24",
+        "ADEP": "KMIB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jun-24",
+        "ADEP": "KEWR",
+        "MisDep": 2,
+        "TotalDep": 15
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jun-24",
+        "ADEP": "KIAB",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Jun-24",
+        "ADEP": "PHNL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Mar-24",
+        "ADEP": "PAED",
+        "MisDep": 1,
+        "TotalDep": 6
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "May-24",
+        "ADEP": "KJFK",
+        "MisDep": 1,
+        "TotalDep": 29
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Oct-24",
+        "ADEP": "KJFK",
+        "MisDep": 1,
+        "TotalDep": 23
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Oct-24",
+        "ADEP": "PHNL",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "United States",
+        "Month": "Sep-24",
+        "ADEP": "KEWR",
+        "MisDep": 1,
+        "TotalDep": 19
+    },
+    {
+        "ADEP State": "Uzbekistan",
+        "Month": "Apr-24",
+        "ADEP": "UTTT",
+        "MisDep": 1,
+        "TotalDep": 50
+    },
+    {
+        "ADEP State": "Uzbekistan",
+        "Month": "Jan-24",
+        "ADEP": "UTTT",
+        "MisDep": 1,
+        "TotalDep": 70
+    },
+    {
+        "ADEP State": "Uzbekistan",
+        "Month": "Jul-24",
+        "ADEP": "UTTT",
+        "MisDep": 1,
+        "TotalDep": 65
+    },
+    {
+        "ADEP State": "Uzbekistan",
+        "Month": "Jun-24",
+        "ADEP": "UTTT",
+        "MisDep": 3,
+        "TotalDep": 58
+    },
+    {
+        "ADEP State": "Uzbekistan",
+        "Month": "May-24",
+        "ADEP": "UTTT",
+        "MisDep": 1,
+        "TotalDep": 64
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Apr-24",
+        "ADEP": "VVCR",
+        "MisDep": 1,
+        "TotalDep": 39
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Apr-24",
+        "ADEP": "VVDN",
+        "MisDep": 1,
+        "TotalDep": 200
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Apr-24",
+        "ADEP": "VVNB",
+        "MisDep": 1,
+        "TotalDep": 363
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Apr-24",
+        "ADEP": "VVPQ",
+        "MisDep": 1,
+        "TotalDep": 45
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Apr-24",
+        "ADEP": "VVTS",
+        "MisDep": 11,
+        "TotalDep": 861
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Aug-24",
+        "ADEP": "VVNB",
+        "MisDep": 1,
+        "TotalDep": 384
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Aug-24",
+        "ADEP": "VVTS",
+        "MisDep": 14,
+        "TotalDep": 929
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Dec-24",
+        "ADEP": "VVDN",
+        "MisDep": 1,
+        "TotalDep": 199
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Dec-24",
+        "ADEP": "VVNB",
+        "MisDep": 2,
+        "TotalDep": 427
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Dec-24",
+        "ADEP": "VVTS",
+        "MisDep": 8,
+        "TotalDep": 1007
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Feb-24",
+        "ADEP": "VVNB",
+        "MisDep": 4,
+        "TotalDep": 364
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Feb-24",
+        "ADEP": "VVPQ",
+        "MisDep": 1,
+        "TotalDep": 77
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Feb-24",
+        "ADEP": "VVTS",
+        "MisDep": 9,
+        "TotalDep": 827
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-24",
+        "ADEP": "VVCR",
+        "MisDep": 2,
+        "TotalDep": 33
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-24",
+        "ADEP": "VVDB",
+        "MisDep": 1,
+        "TotalDep": 13
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-24",
+        "ADEP": "VVNB",
+        "MisDep": 2,
+        "TotalDep": 381
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-24",
+        "ADEP": "VVPQ",
+        "MisDep": 1,
+        "TotalDep": 81
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-24",
+        "ADEP": "VVTS",
+        "MisDep": 5,
+        "TotalDep": 870
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-25",
+        "ADEP": "VVDN",
+        "MisDep": 3,
+        "TotalDep": 198
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-25",
+        "ADEP": "VVNB",
+        "MisDep": 2,
+        "TotalDep": 417
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-25",
+        "ADEP": "VVPQ",
+        "MisDep": 1,
+        "TotalDep": 249
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jan-25",
+        "ADEP": "VVTS",
+        "MisDep": 5,
+        "TotalDep": 1027
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jul-24",
+        "ADEP": "VVNB",
+        "MisDep": 2,
+        "TotalDep": 382
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jul-24",
+        "ADEP": "VVTS",
+        "MisDep": 9,
+        "TotalDep": 904
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jun-24",
+        "ADEP": "VVNB",
+        "MisDep": 1,
+        "TotalDep": 363
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Jun-24",
+        "ADEP": "VVTS",
+        "MisDep": 7,
+        "TotalDep": 873
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Mar-24",
+        "ADEP": "VVDN",
+        "MisDep": 1,
+        "TotalDep": 231
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Mar-24",
+        "ADEP": "VVNB",
+        "MisDep": 1,
+        "TotalDep": 386
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Mar-24",
+        "ADEP": "VVTS",
+        "MisDep": 7,
+        "TotalDep": 919
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "May-24",
+        "ADEP": "VVNB",
+        "MisDep": 1,
+        "TotalDep": 403
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "May-24",
+        "ADEP": "VVTS",
+        "MisDep": 7,
+        "TotalDep": 898
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Nov-24",
+        "ADEP": "VVNB",
+        "MisDep": 2,
+        "TotalDep": 375
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Nov-24",
+        "ADEP": "VVPQ",
+        "MisDep": 3,
+        "TotalDep": 187
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Nov-24",
+        "ADEP": "VVTS",
+        "MisDep": 8,
+        "TotalDep": 928
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Oct-24",
+        "ADEP": "VVTS",
+        "MisDep": 5,
+        "TotalDep": 903
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Sep-24",
+        "ADEP": "VVNB",
+        "MisDep": 3,
+        "TotalDep": 372
+    },
+    {
+        "ADEP State": "Viet Nam",
+        "Month": "Sep-24",
+        "ADEP": "VVTS",
+        "MisDep": 4,
+        "TotalDep": 875
+    },
+    {
+        "ADEP State": "Zambia",
+        "Month": "Jan-25",
+        "ADEP": "FLKK",
+        "MisDep": 1,
+        "TotalDep": 1
+    },
+    {
+        "ADEP State": "Zimbabwe",
+        "Month": "Apr-24",
+        "ADEP": "FVRG",
+        "MisDep": 1,
+        "TotalDep": 1
+    }
+]
