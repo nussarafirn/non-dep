@@ -60,7 +60,7 @@ function airportAggregate(country, month, objPercentMisDep) {
 function createAirportDataset(ADEP, values, idx) {
     return {
         label: ADEP,
-        data: values.map(d => d?.percentMisDep),
+        data: values ? values.map(d => d?.percentMisDep) : null,
         borderColor: Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length],
         backgroundColor: Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length],
         order: idx,
