@@ -1,5 +1,5 @@
 function timeAggregate(country, month, FlightType) {
-    const FLIGHT_TYPES = ['Inbound', 'Overflight'];
+    const FLIGHT_TYPES = ['Overflight', 'Inbound'];
     const allHours = Array.from({ length: 24 }, (_, i) => String(i).padStart(2, '0'));
 
     const timeData = {};
@@ -33,9 +33,14 @@ function createTimeConfig(timeAllHours, timeFlightTypes, timeData) {
                 return {
                     label: flightType,
                     data: timeData[flightType],
-                    backgroundColor: Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length],
+                    backgroundColor: transparentize(Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length], .5),
+                    borderColor: Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length],
+                    borderWidth: 1,
                     datalabels: {
-                        color: 'white', align: 'start', anchor: 'end',
+                        color: Object.values(CHART_COLORS)[idx % Object.keys(CHART_COLORS).length],
+                        clamp: true,
+                        align: idx == 0 ? 'center': 'top',
+                        anchor: idx == 0 ? 'center': 'end',
                         formatter: (v) => v,
                     }
                 };

@@ -84,7 +84,7 @@ function createAirportConfig(airportData, airportAllMonths) {
         options: {
             responsive: true,
             plugins: {
-                // legend: null,
+                legend: { labels: { boxWidth: 12 } },
                 // title: null,
                 datalabels: {
                     backgroundColor: function (context) {
