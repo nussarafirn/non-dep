@@ -76,3 +76,8 @@ const NAMED_COLORS = [
 function namedColor(index) {
     return NAMED_COLORS[index % NAMED_COLORS.length];
 }
+
+function transparentize(value, opacity) {
+    var alpha = opacity === undefined ? 0.5 : 1 - opacity;
+    return value.replace('rgb', 'rgba').replace(')', ', ' + alpha + ')');
+}

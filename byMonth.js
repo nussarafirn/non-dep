@@ -46,21 +46,32 @@ function createMonthConfig(monthData) {
                 {
                     label: 'Total # MIS Flights',
                     data: monthData.map(d => d.misDep),
-                    backgroundColor: CHART_COLORS.red,
+                    backgroundColor: transparentize(CHART_COLORS.red, .5),
+                    borderColor: CHART_COLORS.red,
+                    borderWidth: 1,
                     order: 1,
                     yAxisID: 'barAxis',
+                    datalabels: {
+                        color: 'black',
+                        backgroundColor: null,
+                        font: { size: 18 }
+                    }
                 },
                 {
                     label: '% MIS',
                     data: monthData.map(d => d.percentMisDep),
-                    borderColor: CHART_COLORS.blue,
-                    backgroundColor: CHART_COLORS.blue,
+                    borderColor: CHART_COLORS.red,
+                    backgroundColor: CHART_COLORS.red,
                     type: 'line',
                     order: 0,
                     yAxisID: 'lineAxis',
                     datalabels: {
-                        color: 'white', align: 'end',
+                        color: 'white',
+                        align: 'auto',
                         formatter: (v) => v + '%',
+                        backgroundColor: function (context) {
+                            return context.dataset.backgroundColor;
+                        },
                     }
                 }
             ]
@@ -71,12 +82,8 @@ function createMonthConfig(monthData) {
                 legend: null,
                 title: null,
                 datalabels: {
-                    backgroundColor: function (context) {
-                        return context.dataset.backgroundColor;
-                    },
                     borderRadius: 4,
-                    color: 'white',
-                    font: { weight: 'bold' },
+                    // font: { weight: 'bold' },
                     padding: 4
                 }
             },
