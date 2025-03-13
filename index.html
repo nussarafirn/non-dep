@@ -1,234 +1,202 @@
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="auto">
-  <head>
-    <script src="./assets/js/color-modes.js"></script>
 
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="" />
-    <meta
-      name="author"
-      content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
-    />
-    <meta name="generator" content="Hugo 0.122.0" />
-    <title>Dashboard Template · Bootstrap v5.3</title>
+<head>
+  <script src="./assets/js/color-modes.js"></script>
 
-    <link
-      rel="canonical"
-      href="https://getbootstrap.com/docs/5.3/examples/dashboard/"
-    />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="" />
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors" />
+  <meta name="generator" content="Hugo 0.122.0" />
+  <title>Dashboard Template · Bootstrap v5.3</title>
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/@docsearch/css@3"
-    />
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/dashboard/" />
 
-    <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
 
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
+  <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
       }
+    }
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
+    .b-example-divider {
+      width: 100%;
+      height: 3rem;
+      background-color: rgba(0, 0, 0, 0.1);
+      border: solid rgba(0, 0, 0, 0.15);
+      border-width: 1px 0;
+      box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
+        inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
+    }
 
-      .b-example-divider {
-        width: 100%;
-        height: 3rem;
-        background-color: rgba(0, 0, 0, 0.1);
-        border: solid rgba(0, 0, 0, 0.15);
-        border-width: 1px 0;
-        box-shadow: inset 0 0.5em 1.5em rgba(0, 0, 0, 0.1),
-          inset 0 0.125em 0.5em rgba(0, 0, 0, 0.15);
-      }
+    .b-example-vr {
+      flex-shrink: 0;
+      width: 1.5rem;
+      height: 100vh;
+    }
 
-      .b-example-vr {
-        flex-shrink: 0;
-        width: 1.5rem;
-        height: 100vh;
-      }
+    .bi {
+      vertical-align: -0.125em;
+      fill: currentColor;
+    }
 
-      .bi {
-        vertical-align: -0.125em;
-        fill: currentColor;
-      }
+    .nav-scroller {
+      position: relative;
+      z-index: 2;
+      height: 2.75rem;
+      overflow-y: hidden;
+    }
 
-      .nav-scroller {
-        position: relative;
-        z-index: 2;
-        height: 2.75rem;
-        overflow-y: hidden;
-      }
+    .nav-scroller .nav {
+      display: flex;
+      flex-wrap: nowrap;
+      padding-bottom: 1rem;
+      margin-top: -1px;
+      overflow-x: auto;
+      text-align: center;
+      white-space: nowrap;
+      -webkit-overflow-scrolling: touch;
+    }
 
-      .nav-scroller .nav {
-        display: flex;
-        flex-wrap: nowrap;
-        padding-bottom: 1rem;
-        margin-top: -1px;
-        overflow-x: auto;
-        text-align: center;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-      }
+    .btn-bd-primary {
+      --bd-violet-bg: #712cf9;
+      --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
 
-      .btn-bd-primary {
-        --bd-violet-bg: #712cf9;
-        --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+      --bs-btn-font-weight: 600;
+      --bs-btn-color: var(--bs-white);
+      --bs-btn-bg: var(--bd-violet-bg);
+      --bs-btn-border-color: var(--bd-violet-bg);
+      --bs-btn-hover-color: var(--bs-white);
+      --bs-btn-hover-bg: #6528e0;
+      --bs-btn-hover-border-color: #6528e0;
+      --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+      --bs-btn-active-color: var(--bs-btn-hover-color);
+      --bs-btn-active-bg: #5a23c8;
+      --bs-btn-active-border-color: #5a23c8;
+    }
 
-        --bs-btn-font-weight: 600;
-        --bs-btn-color: var(--bs-white);
-        --bs-btn-bg: var(--bd-violet-bg);
-        --bs-btn-border-color: var(--bd-violet-bg);
-        --bs-btn-hover-color: var(--bs-white);
-        --bs-btn-hover-bg: #6528e0;
-        --bs-btn-hover-border-color: #6528e0;
-        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
-        --bs-btn-active-color: var(--bs-btn-hover-color);
-        --bs-btn-active-bg: #5a23c8;
-        --bs-btn-active-border-color: #5a23c8;
-      }
+    .bd-mode-toggle {
+      z-index: 1500;
+    }
 
-      .bd-mode-toggle {
-        z-index: 1500;
-      }
+    .bd-mode-toggle .dropdown-menu .active .bi {
+      display: block !important;
+    }
+  </style>
 
-      .bd-mode-toggle .dropdown-menu .active .bi {
-        display: block !important;
-      }
-    </style>
-    
-    <!-- Month Picker -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/css/coreui.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui@5.2.0/dist/css/themes/bootstrap/bootstrap.min.css" rel="stylesheet" integrity="sha384-nQQlHXZO4YmST3YDqk/JU3f1t2D58a/nPd1QbiLecouKn68glzRym4BlOxlr5Rrg" crossorigin="anonymous">
-    <title>CoreUI Date Range Picker Example</title>
-    <script defer src="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/js/coreui.bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@coreui/coreui@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-/Wqxm7SH7a2afq86tB5EaOcTJzIn98qJqLNby9+E5Hil63d65eiveaJmzUAclU47" crossorigin="anonymous"></script>
+  <!-- Month Picker -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/css/coreui.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui@5.2.0/dist/css/themes/bootstrap/bootstrap.min.css"
+    rel="stylesheet" integrity="sha384-nQQlHXZO4YmST3YDqk/JU3f1t2D58a/nPd1QbiLecouKn68glzRym4BlOxlr5Rrg"
+    crossorigin="anonymous">
+  <title>CoreUI Date Range Picker Example</title>
+  <script defer src="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/js/coreui.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@coreui/coreui@5.2.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-/Wqxm7SH7a2afq86tB5EaOcTJzIn98qJqLNby9+E5Hil63d65eiveaJmzUAclU47"
+    crossorigin="anonymous"></script>
 
 
-    <!-- Custom styles for this template -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css"
-      rel="stylesheet"
-    />
-    <!-- Custom styles for this template -->
-    <link href="dashboard.css" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <!-- Custom styles for this template -->
+  <link href="dashboard.css" rel="stylesheet" />
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
-    <script src="./utils.js" async="false"></script>
-    <script src="./byMonth.js" async="false"></script>
-    <script src="./byAirport.js" async="false"></script>
-    <script src="./byTime.js" async="false"></script>
-  </head>
+  <script src="./utils.js" async="false"></script>
+  <script src="./byMonth.js" async="false"></script>
+  <script src="./byAirport.js" async="false"></script>
+  <script src="./byTime.js" async="false"></script>
+</head>
 
-  <body>
-    <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
-      <symbol id="check2" viewBox="0 0 16 16">
-        <path
-          d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z"
-        />
-      </symbol>
-      <symbol id="circle-half" viewBox="0 0 16 16">
-        <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z" />
-      </symbol>
-      <symbol id="moon-stars-fill" viewBox="0 0 16 16">
-        <path
-          d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"
-        />
-        <path
-          d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z"
-        />
-      </symbol>
-      <symbol id="sun-fill" viewBox="0 0 16 16">
-        <path
-          d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"
-        />
-      </symbol>
+<body>
+  <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
+    <symbol id="check2" viewBox="0 0 16 16">
+      <path
+        d="M13.854 3.646a.5.5 0 0 1 0 .708l-7 7a.5.5 0 0 1-.708 0l-3.5-3.5a.5.5 0 1 1 .708-.708L6.5 10.293l6.646-6.647a.5.5 0 0 1 .708 0z" />
+    </symbol>
+    <symbol id="circle-half" viewBox="0 0 16 16">
+      <path d="M8 15A7 7 0 1 0 8 1v14zm0 1A8 8 0 1 1 8 0a8 8 0 0 1 0 16z" />
+    </symbol>
+    <symbol id="moon-stars-fill" viewBox="0 0 16 16">
+      <path
+        d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z" />
+      <path
+        d="M10.794 3.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387a1.734 1.734 0 0 0-1.097 1.097l-.387 1.162a.217.217 0 0 1-.412 0l-.387-1.162A1.734 1.734 0 0 0 9.31 6.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387a1.734 1.734 0 0 0 1.097-1.097l.387-1.162zM13.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732l-.774-.258a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L13.863.1z" />
+    </symbol>
+    <symbol id="sun-fill" viewBox="0 0 16 16">
+      <path
+        d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z" />
+    </symbol>
 
 
     <!-- mode light dark -->
     <!-- </svg> -->
     <!-- <div -->
-      class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle"
+    class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle"
     >
-      <button
-        class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
-        id="bd-theme"
-        type="button"
-        aria-expanded="false"
-        data-bs-toggle="dropdown"
-        aria-label="Toggle theme (auto)"
-      >
-        <svg class="bi my-1 theme-icon-active" width="1em" height="1em">
-          <use href="#circle-half"></use>
-        </svg>
-        <span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
-      </button>
-      <ul
-        class="dropdown-menu dropdown-menu-end shadow"
-        aria-labelledby="bd-theme-text"
-      >
-        <li>
-          <button
-            type="button"
-            class="dropdown-item d-flex align-items-center"
-            data-bs-theme-value="light"
-            aria-pressed="false"
-          >
-            <svg class="bi me-2 opacity-50" width="1em" height="1em">
-              <use href="#sun-fill"></use>
-            </svg>
-            Light
-            <svg class="bi ms-auto d-none" width="1em" height="1em">
-              <use href="#check2"></use>
-            </svg>
-          </button>
-        </li>
-        <li>
-          <button
-            type="button"
-            class="dropdown-item d-flex align-items-center"
-            data-bs-theme-value="dark"
-            aria-pressed="false"
-          >
-            <svg class="bi me-2 opacity-50" width="1em" height="1em">
-              <use href="#moon-stars-fill"></use>
-            </svg>
-            Dark
-            <svg class="bi ms-auto d-none" width="1em" height="1em">
-              <use href="#check2"></use>
-            </svg>
-          </button>
-        </li>
-        <li>
-          <button
-            type="button"
-            class="dropdown-item d-flex align-items-center active"
-            data-bs-theme-value="auto"
-            aria-pressed="true"
-          >
-            <svg class="bi me-2 opacity-50" width="1em" height="1em">
-              <use href="#circle-half"></use>
-            </svg>
-            Auto
-            <svg class="bi ms-auto d-none" width="1em" height="1em">
-              <use href="#check2"></use>
-            </svg>
-          </button>
-        </li>
-      </ul>
+    <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center" id="bd-theme" type="button"
+      aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
+      <svg class="bi my-1 theme-icon-active" width="1em" height="1em">
+        <use href="#circle-half"></use>
+      </svg>
+      <span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
+    </button>
+    <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text">
+      <li>
+        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="light"
+          aria-pressed="false">
+          <svg class="bi me-2 opacity-50" width="1em" height="1em">
+            <use href="#sun-fill"></use>
+          </svg>
+          Light
+          <svg class="bi ms-auto d-none" width="1em" height="1em">
+            <use href="#check2"></use>
+          </svg>
+        </button>
+      </li>
+      <li>
+        <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark"
+          aria-pressed="false">
+          <svg class="bi me-2 opacity-50" width="1em" height="1em">
+            <use href="#moon-stars-fill"></use>
+          </svg>
+          Dark
+          <svg class="bi ms-auto d-none" width="1em" height="1em">
+            <use href="#check2"></use>
+          </svg>
+        </button>
+      </li>
+      <li>
+        <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="auto"
+          aria-pressed="true">
+          <svg class="bi me-2 opacity-50" width="1em" height="1em">
+            <use href="#circle-half"></use>
+          </svg>
+          Auto
+          <svg class="bi ms-auto d-none" width="1em" height="1em">
+            <use href="#check2"></use>
+          </svg>
+        </button>
+      </li>
+    </ul>
     <!-- </div> -->
 
     <!-- <svg xmlns="http://www.w3.org/2000/svg" class="d-none">
@@ -320,134 +288,106 @@
       </symbol>
     </svg> -->
 
-    <header
-      class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow"
-      data-bs-theme="dark"
-    >
-      <a
-        class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-6 text-white"
-        href="#"
-        >Company name</a
-      >
+    <header class="navbar sticky-top bg-dark flex-md-nowrap p-0 shadow" data-bs-theme="dark">
+      <a class="navbar-brand col-md-3 col-lg-2 me-0 px-3 fs-8 text-white" href="#">Non-Receipt of Departure Messages</a>
 
       <ul class="navbar-nav flex-row d-md-none">
         <li class="nav-item text-nowrap">
-          <button
-            class="nav-link px-3 text-white"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSearch"
-            aria-controls="navbarSearch"
-            aria-expanded="false"
-            aria-label="Toggle search"
-          >
-            <svg class="bi"><use xlink:href="#search" /></svg>
+          <button class="nav-link px-3 text-white" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarSearch" aria-controls="navbarSearch" aria-expanded="false"
+            aria-label="Toggle search">
+            <svg class="bi">
+              <use xlink:href="#search" />
+            </svg>
           </button>
         </li>
         <li class="nav-item text-nowrap">
-          <button
-            class="nav-link px-3 text-white"
-            type="button"
-            data-bs-toggle="offcanvas"
-            data-bs-target="#sidebarMenu"
-            aria-controls="sidebarMenu"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <svg class="bi"><use xlink:href="#list" /></svg>
+          <button class="nav-link px-3 text-white" type="button" data-bs-toggle="offcanvas"
+            data-bs-target="#sidebarMenu" aria-controls="sidebarMenu" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <svg class="bi">
+              <use xlink:href="#list" />
+            </svg>
           </button>
         </li>
       </ul>
 
       <div id="navbarSearch" class="navbar-search w-100 collapse">
-        <input
-          class="form-control w-100 rounded-0 border-0"
-          type="text"
-          placeholder="Search"
-          aria-label="Search"
-        />
+        <input class="form-control w-100 rounded-0 border-0" type="text" placeholder="Search" aria-label="Search" />
       </div>
     </header>
 
     <div class="container-fluid">
       <div class="row">
-        <div
-          class="sidebar border border-right col-md-3 col-lg-2 p-0 bg-body-tertiary"
-        >
-          <div
-            class="offcanvas-md offcanvas-end bg-body-tertiary"
-            tabindex="-1"
-            id="sidebarMenu"
-            aria-labelledby="sidebarMenuLabel"
-          >
+        <div class="sidebar border border-right col-md-3 col-lg-2 p-0 bg-body-tertiary">
+          <div class="offcanvas-md offcanvas-end bg-body-tertiary" tabindex="-1" id="sidebarMenu"
+            aria-labelledby="sidebarMenuLabel">
             <div class="offcanvas-header">
               <h5 class="offcanvas-title" id="sidebarMenuLabel">
                 Company name
               </h5>
-              <button
-                type="button"
-                class="btn-close"
-                data-bs-dismiss="offcanvas"
-                data-bs-target="#sidebarMenu"
-                aria-label="Close"
-              ></button>
+              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#sidebarMenu"
+                aria-label="Close"></button>
             </div>
-            <div
-              class="offcanvas-body d-md-flex flex-column p-0 pt-lg-3 overflow-y-auto"
-            >
+            <div class="offcanvas-body d-md-flex flex-column p-0 pt-lg-3 overflow-y-auto">
               <ul class="nav flex-column">
                 <li class="nav-item">
-                  <a
-                    class="nav-link d-flex align-items-center gap-2 active"
-                    aria-current="page"
-                    href="#"
-                  >
-                    <svg class="bi"><use xlink:href="#house-fill" /></svg>
+                  <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page" href="#">
+                    <svg class="bi">
+                      <use xlink:href="#house-fill" />
+                    </svg>
                     Dashboard
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href=order.html">
-                    <svg class="bi"><use xlink:href="#file-earmark" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#file-earmark" />
+                    </svg>
                     Orders
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#">
-                    <svg class="bi"><use xlink:href="#cart" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#cart" />
+                    </svg>
                     Products
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#">
-                    <svg class="bi"><use xlink:href="#people" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#people" />
+                    </svg>
                     Customers
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#">
-                    <svg class="bi"><use xlink:href="#graph-up" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#graph-up" />
+                    </svg>
                     Reports
                   </a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#">
-                    <svg class="bi"><use xlink:href="#puzzle" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#puzzle" />
+                    </svg>
                     Integrations
                   </a>
                 </li>
               </ul>
 
               <h6
-                class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase"
-              >
+                class="sidebar-heading d-flex justify-content-between align-items-center px-3 mt-4 mb-1 text-body-secondary text-uppercase">
                 <span>Saved reports</span>
-                <a
-                  class="link-secondary"
-                  href="#"
-                  aria-label="Add a new report"
-                >
-                  <svg class="bi"><use xlink:href="#plus-circle" /></svg>
+                <a class="link-secondary" href="#" aria-label="Add a new report">
+                  <svg class="bi">
+                    <use xlink:href="#plus-circle" />
+                  </svg>
                 </a>
               </h6>
               <ul class="nav flex-column mb-auto">
@@ -498,7 +438,9 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link d-flex align-items-center gap-2" href="#">
-                    <svg class="bi"><use xlink:href="#door-closed" /></svg>
+                    <svg class="bi">
+                      <use xlink:href="#door-closed" />
+                    </svg>
                     Sign out
                   </a>
                 </li>
@@ -509,8 +451,7 @@
 
         <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
           <div
-            class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom"
-          >
+            class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
             <h1 class="h2">Dashboard</h1>
             <div class="btn-toolbar mb-2 mb-md-0">
               <div class="btn-group me-2">
@@ -521,31 +462,29 @@
                   Export
                 </button>
               </div>
-              <button
-                type="button"
-                class="btn btn-sm btn-outline-secondary dropdown-toggle d-flex align-items-center gap-1"
-              >
-                <svg class="bi"><use xlink:href="#calendar3" /></svg>
+              <button type="button"
+                class="btn btn-sm btn-outline-secondary dropdown-toggle d-flex align-items-center gap-1">
+                <svg class="bi">
+                  <use xlink:href="#calendar3" />
+                </svg>
                 This week
               </button>
             </div>
           </div>
 
-         <!-- GRAPHS LOCATION -->
-        
+          <!-- GRAPHS LOCATION -->
 
-         <div style="margin: auto; width: 80vw">
-            <div
-              style="
+
+          <div style="margin: auto; width: 80vw">
+            <div style="
                 display: flex;
                 flex-direction: row;
                 justify-content: space-between;
-              "
-            >
-            <div class="mb-3">
+              ">
+              <div class="mb-3">
                 <label for="country" class="form-label"> Selected Country</label>
-                  <select name="country" id="country" class="form-select"></select>
-            </div>
+                <select name="country" id="country" class="form-select"></select>
+              </div>
               <div id="checkbox-month"></div>
 
               <!-- date picker new -->
@@ -568,208 +507,209 @@
                 </div>
             </div> -->
             </div>
-            
+
             <div style="position: relative; height: 40vh; width: 80vw">
               <canvas id="vis-airport"></canvas>
-              <div
-                style="
+              <div style="
                   display: flex;
                   flex-direction: row;
                   position: relative;
                   height: 40vh;
                   width: 40vw;
-                "
-              >
+                ">
                 <canvas id="vis-month"></canvas>
                 <canvas id="vis-time"></canvas>
               </div>
             </div>
           </div>
 
-     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/css/coreui.min.css" rel="stylesheet">
-    <title>CoreUI Date Range Picker Example</title>
-    <script defer src="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/js/coreui.bundle.min.js"></script>
-         
-    <script src="dashboard.js"></script>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <link href="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/css/coreui.min.css" rel="stylesheet">
+          <title>CoreUI Date Range Picker Example</title>
+          <script defer
+            src="https://cdn.jsdelivr.net/npm/@coreui/coreui-pro@5.9.0/dist/js/coreui.bundle.min.js"></script>
+
+          <script src="dashboard.js"></script>
 
 
-    <script type="text/javascript" async="false">
-      window.onload = () => {
-        Chart.register(ChartDataLabels);
+          <script type="text/javascript" async="false">
+            window.onload = () => {
+              Chart.register(ChartDataLabels);
 
-        const monthNames = [
-          "Jan",
-          "Feb",
-          "Mar",
-          "Apr",
-          "May",
-          "Jun",
-          "Jul",
-          "Aug",
-          "Sep",
-          "Oct",
-          "Nov",
-          "Dec",
-        ];
-        function parseMonth(m) {
-          return new Date(
-            parseInt("20" + m.split("-")[1]),
-            monthNames.indexOf(m.split("-")[0])
-          );
-        }
-
-        $.getJSON("PercentMisDep.json", function (objPercentMisDep) {
-          $.getJSON("FlightType.json", function (objFlightType) {
-            // Fill in the country dropdown
-            const countries = new Set();
-            $.each(objPercentMisDep, function (key, value) {
-              countries.add(value["ADEP State"]);
-            });
-            $("#country").append('<option value="All">All</option>');
-            for (const c of countries) {
-              $("#country").append(
-                '<option value="' + c + `"${c === 'Malaysia' ? ' selected' : ''}>` + c + "</option>"
-              );
-            }
-
-            // Fill in the month checkboxes
-            const monthsSet = new Set();
-            $.each(objPercentMisDep, function (key, value) {
-              monthsSet.add(value["Month"]);
-            });
-            const months = Array.from(monthsSet).sort(
-              (a, b) => parseMonth(a) - parseMonth(b)
-            );
-            for (const m of months) {
-              $("#checkbox-month").append(
-                '<input type="checkbox" id="' +
-                  m +
-                  '" name="' +
-                  m +
-                  '" value="' +
-                  m +
-                  '" checked><label for="' +
-                  m +
-                  '">' +
-                  m +
-                  "</label>"
-              );
-            }
-
-            // Visualizations Setup
-            // Each with their spec and initial data (all countries with all months)
-            const timeCtx = document.getElementById("vis-time");
-            const { timeAllHours, timeFlightTypes, timeData } = timeAggregate(
-              "Malaysia",
-              "All",
-              objFlightType
-            );
-            const timeConfig = createTimeConfig(
-              timeAllHours,
-              timeFlightTypes,
-              timeData
-            );
-
-            const airportCtx = document.getElementById("vis-airport");
-            const [airportData, airportAllMonths] = airportAggregate(
-              "Malaysia",
-              "All",
-              objPercentMisDep
-            );
-            const airportConfig = createAirportConfig(
-              airportData,
-              airportAllMonths
-            );
-
-            const monthCtx = document.getElementById("vis-month");
-            const monthData = monthAggregate("Malaysia", objPercentMisDep);
-            const monthConfig = createMonthConfig(monthData);
-
-            // Create the charts
-            const monthChart = new Chart(monthCtx, monthConfig);
-            const airportChart = new Chart(airportCtx, airportConfig);
-            const timeChart = new Chart(timeCtx, timeConfig);
-
-            // When filter chages, update the data in the charts.
-            function updateCharts() {
-              // Get filter values
-              const country = $("#country").val();
-              const months = new Set();
-              $("#checkbox-month input").map(function () {
-                if (this.checked) {
-                  months.add($(this).val());
-                }
-              });
-
-              // Update ByMonth
-              const monthData = monthAggregate(country, objPercentMisDep);
-              monthChart.data.datasets[0].data = monthData.map((d) => d.misDep);
-              monthChart.data.datasets[1].data = monthData.map(
-                (d) => d.percentMisDep
-              );
-              monthChart.update();
-
-              // Update ByAirport
-              const [airportData, airportAllMonths] = airportAggregate(
-                country,
-                months,
-                objPercentMisDep
-              );
-              airportChart.data.labels = airportAllMonths.map(
-                (m) => m.split("-")[0] + " 20" + m.split("-")[1]
-              );
-              airportChart.data.datasets
-                .map((dataset, idx) => [dataset.label, idx])
-                .reverse()
-                .forEach(([ADEP, idx]) => {
-                  if (!(ADEP in airportData)) {
-                    airportChart.data.datasets.splice(idx, 1);
-                  }
-                });
-              Object.keys(airportData).forEach((ADEP) => {
-                if (
-                  !airportChart.data.datasets.map((d) => d.label).includes(ADEP)
-                ) {
-                  airportChart.data.datasets.push(
-                    createAirportDataset(
-                      ADEP,
-                      null,
-                      airportChart.data.datasets.length
-                    )
-                  );
-                }
-              });
-              airportChart.data.datasets.forEach((dataset) => {
-                dataset.data = airportData[dataset.label].map(
-                  (d) => d?.percentMisDep
+              const monthNames = [
+                "Jan",
+                "Feb",
+                "Mar",
+                "Apr",
+                "May",
+                "Jun",
+                "Jul",
+                "Aug",
+                "Sep",
+                "Oct",
+                "Nov",
+                "Dec",
+              ];
+              function parseMonth(m) {
+                return new Date(
+                  parseInt("20" + m.split("-")[1]),
+                  monthNames.indexOf(m.split("-")[0])
                 );
+              }
+
+              $.getJSON("PercentMisDep.json", function (objPercentMisDep) {
+                $.getJSON("FlightType.json", function (objFlightType) {
+                  // Fill in the country dropdown
+                  const countries = new Set();
+                  $.each(objPercentMisDep, function (key, value) {
+                    countries.add(value["ADEP State"]);
+                  });
+                  $("#country").append('<option value="All">All</option>');
+                  for (const c of countries) {
+                    $("#country").append(
+                      '<option value="' + c + `"${c === 'Malaysia' ? ' selected' : ''}>` + c + "</option>"
+                    );
+                  }
+
+                  // Fill in the month checkboxes
+                  const monthsSet = new Set();
+                  $.each(objPercentMisDep, function (key, value) {
+                    monthsSet.add(value["Month"]);
+                  });
+                  const months = Array.from(monthsSet).sort(
+                    (a, b) => parseMonth(a) - parseMonth(b)
+                  );
+                  for (const m of months) {
+                    $("#checkbox-month").append(
+                      '<input type="checkbox" id="' +
+                      m +
+                      '" name="' +
+                      m +
+                      '" value="' +
+                      m +
+                      '" checked><label for="' +
+                      m +
+                      '">' +
+                      m +
+                      "</label>"
+                    );
+                  }
+
+                  // Visualizations Setup
+                  // Each with their spec and initial data (all countries with all months)
+                  const timeCtx = document.getElementById("vis-time");
+                  const { timeAllHours, timeFlightTypes, timeData } = timeAggregate(
+                    "Malaysia",
+                    "All",
+                    objFlightType
+                  );
+                  const timeConfig = createTimeConfig(
+                    timeAllHours,
+                    timeFlightTypes,
+                    timeData
+                  );
+
+                  const airportCtx = document.getElementById("vis-airport");
+                  const [airportData, airportAllMonths] = airportAggregate(
+                    "Malaysia",
+                    "All",
+                    objPercentMisDep
+                  );
+                  const airportConfig = createAirportConfig(
+                    airportData,
+                    airportAllMonths
+                  );
+
+                  const monthCtx = document.getElementById("vis-month");
+                  const monthData = monthAggregate("Malaysia", objPercentMisDep);
+                  const monthConfig = createMonthConfig(monthData);
+
+                  // Create the charts
+                  const monthChart = new Chart(monthCtx, monthConfig);
+                  const airportChart = new Chart(airportCtx, airportConfig);
+                  const timeChart = new Chart(timeCtx, timeConfig);
+
+                  // When filter chages, update the data in the charts.
+                  function updateCharts() {
+                    // Get filter values
+                    const country = $("#country").val();
+                    const months = new Set();
+                    $("#checkbox-month input").map(function () {
+                      if (this.checked) {
+                        months.add($(this).val());
+                      }
+                    });
+
+                    // Update ByMonth
+                    const monthData = monthAggregate(country, objPercentMisDep);
+                    monthChart.data.datasets[0].data = monthData.map((d) => d.misDep);
+                    monthChart.data.datasets[1].data = monthData.map(
+                      (d) => d.percentMisDep
+                    );
+                    monthChart.update();
+
+                    // Update ByAirport
+                    const [airportData, airportAllMonths] = airportAggregate(
+                      country,
+                      months,
+                      objPercentMisDep
+                    );
+                    airportChart.data.labels = airportAllMonths.map(
+                      (m) => m.split("-")[0] + " 20" + m.split("-")[1]
+                    );
+                    airportChart.data.datasets
+                      .map((dataset, idx) => [dataset.label, idx])
+                      .reverse()
+                      .forEach(([ADEP, idx]) => {
+                        if (!(ADEP in airportData)) {
+                          airportChart.data.datasets.splice(idx, 1);
+                        }
+                      });
+                    Object.keys(airportData).forEach((ADEP) => {
+                      if (
+                        !airportChart.data.datasets.map((d) => d.label).includes(ADEP)
+                      ) {
+                        airportChart.data.datasets.push(
+                          createAirportDataset(
+                            ADEP,
+                            null,
+                            airportChart.data.datasets.length
+                          )
+                        );
+                      }
+                    });
+                    airportChart.data.datasets.forEach((dataset) => {
+                      dataset.data = airportData[dataset.label].map(
+                        (d) => d?.percentMisDep
+                      );
+                    });
+                    airportChart.update();
+
+                    // Update ByTime
+                    const { timeData } = timeAggregate(
+                      country,
+                      months,
+                      objFlightType
+                    );
+                    console.log(timeData);
+                    timeChart.data.datasets.forEach((dataset) => {
+                      dataset.data = timeData[dataset.label];
+                    });
+                    timeChart.update();
+                  }
+
+                  // Filter changes.
+                  $("#country").change(updateCharts);
+                  $("#checkbox-month input").change(updateCharts);
+                });
               });
-              airportChart.update();
+            };
+          </script>
 
-              // Update ByTime
-              const { timeData } = timeAggregate(
-                country,
-                months,
-                objFlightType
-              );
-              console.log(timeData);
-              timeChart.data.datasets.forEach((dataset) => {
-                dataset.data = timeData[dataset.label];
-              });
-              timeChart.update();
-            }
+          <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+          <script src="cheatsheet.js"></script>
+</body>
+</body>
 
-            // Filter changes.
-            $("#country").change(updateCharts);
-            $("#checkbox-month input").change(updateCharts);
-          });
-        });
-      };
-    </script>
-
-<script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
-<script src="cheatsheet.js"></script></body>
-  </body>
 </html>
